@@ -1,0 +1,6 @@
+public/
+# pour le déploiement du site en ligne
+# je pense qu'il faut les vendors en dur :
+#_vendor/
+nodes_modules/
+resources/
