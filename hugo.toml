@@ -14,7 +14,7 @@ path = "github.com/matharel/seb-doc"
 [params]
 breadcrumbDepth = 0
 breadcrumb = 2
-editUrl = "https://github.dev/matharel/vfub/blob/main/content/"
+gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
 
   [params.lazyimg]
   resizer = "auto"
