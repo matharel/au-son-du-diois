@@ -2,6 +2,16 @@
 title = "Randonnées et activités plein air"
 +++
 
+//Notes pour Seb :
+
+//cahier des charges pour les Admonitions
+
+// Vu que l'on n'a pas des sigles pour toutes les catégories autant ne pas en mettre du tout
+
+// Je veux bien que tu me crée des admonitions avec différentes couleurs, sans sigles, ou je puisse modifier le "titre" avec les nom des randos par exemples.
+
+// couleurs que tu peux me faire (à peu preès) Magenta, Violet, Cyan, Gris clair, Gris foncé, Vert clair, Vert foncé, Noir, Rouge, Ambre, Jaune,
+
 ## Randonnées
 ### [La croix de Justin par Ausson.](https://www.visorando.com/randonnee-boucle-sur-la-montagne-de-justin-depuis-/)
 >fa-tree **Difficulté : Moyen  | Distance: 12km | Dénivelé + : 622m**
@@ -58,10 +68,21 @@ Le claps est un chaos rocheux vieux de quelques centaines d’années. L’ébou
 
 
 ## Canyoning
+>**la Comane**
+Plongez dans l'aventure du canyoning dans la Comane à Romeyer lors de votre séjour chez nous. Une expérience rafraîchissante et inoubliable vous attend. https://www.diois-tourisme.com/fr/experiences-outdoor/activites-de-plein-air/canyoning-rando-aquatique/
+
 
 
 ## Trotinette électrique tout terrain
+>Trottinette tout terrain encadrée avec EVA Location
+https://www.diois-tourisme.com/noesit/!/fiche/trottinette-tout-terrain-encadree-avec-eva-location-257076/
 
-## Ski
+
+## Station du col du rousset, hiver comme été
+>https://www.lesstationsdeladrome.fr/stations/col-du-rousset/
+A 30 min de Die, découvrez la tranquillité et le charme de la petite station de ski du Col du Rousset lors de votre séjour chez nous. Nichée au cœur du Vercors, cette station offre des pistes variées pour tous les niveaux, ainsi qu'un cadre naturel exceptionnel où se ressourcer en toute quiétude. Profitez de l'ambiance conviviale et familiale de cette station pour des vacances à la montagne authentiques et mémorables.
+
 
 ## Kayak
+>kayak sur la rivière drôme
+Plongez au cœur de la nature et explorez les eaux calmes de la Drôme en kayak lors de votre séjour chez nous. Avec ses paysages spectaculaires et ses rapides exaltants, la Drôme offre une expérience inoubliable pour les amateurs de sports nautiques. Que vous soyez débutant ou expert, laissez-vous séduire par la beauté sauvage de cette rivière et vivez des moments d'aventure et de détente en famille ou entre amis.
