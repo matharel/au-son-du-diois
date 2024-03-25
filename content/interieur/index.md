@@ -24,3 +24,13 @@ Le logement est équipé de **2 toilettes sèches** séparées dont un avec un u
 Le gîte est **très bien isolé phoniquement et thermiquement** grâce à son mur en pisé, et ses murs en brique de terre compressée et en terre banchée . Conçu pour être un studio d’enregistrement, les chambres sont bien isolées phoniquement.
 
 Dans la cuisine, il y a tout l'équipement dont vous aurez besoin, cafetière, huiles, sel, épices, récipients, poêles et casseroles, grille-pain, bouilloire, congélateur,  micro-onde, four, lave-vaisselle, etc. A completer.
+
+![Chambre x](chambres_0009.jpg)
+![Chambre x2](chambres_0010.jpg)
+![Chambre x3](chambres_0011.jpg)
+![Chambre terrasse](chambres-terrasse.jpg)
+![Cuisine avec vue sur la terrasse](Cuisine-terrasse.jpg)
+![Cuisine](Cusine.jpg)
+![Le filet entre la salle à manger et la Grande salle](Filet.jpg)
+![Grande salle](Grand-salle(5).jpg)
+![Grande salle 2](Grand-salle.jpg)
