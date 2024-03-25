@@ -1,3 +1,7 @@
++++
+title = "Le Gîte"
++++
+
 Sur 2 niveaux, au rez de chaussée vous trouverez **la Grande pièce de vie de 100m2** avec murs en pierre sèche, mur en pisé, canapé, table basse, et poêle à bois pour l'hiver. Elle peut faire, salon, grande salle de jeu ou d’activité, ou encore salle de bal !
 
 En haut vous trouverez une grande **cuisine collective** toute équipée, une salle à manger qui a la particularité d'avoir un grand filet praticable qui donne au-dessus de la Grande pièce de vie, dans lequel vous pourrez faire votre sieste digestive par exemple !

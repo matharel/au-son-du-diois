@@ -1,5 +1,5 @@
 +++
-titre=Contact et Infos
+title = "Contact et Agenda"
 +++
 
 // Notes pour Seb
