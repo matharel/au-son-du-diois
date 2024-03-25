@@ -2,16 +2,6 @@
 title= "Accueil"
 +++
 
-//Notes pour Seb :
-
-//ne pas laisser le sommaire qui est inutile ? 
-
-//Cacher le titre "Accueil"
-
-//Mettre la photo en fond d'écran
-
-// Changer le picto pour : "home" de forkawesome et le rendre clickable
-
 ## Au son du Diois
 
 

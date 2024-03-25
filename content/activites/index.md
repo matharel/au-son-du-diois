@@ -2,17 +2,8 @@
 title = "Randonnées et activités plein air"
 +++
 
-//Notes pour Seb :
 
-//cahier des charges pour les Admonitions
-
-// Vu que l'on n'a pas des sigles pour toutes les catégories autant ne pas en mettre du tout
-
-// Je veux bien que tu me crée des admonitions avec différentes couleurs, sans sigles, ou je puisse modifier le "titre" avec les nom des randos par exemples.
-
-// couleurs que tu peux me faire (à peu preès) Magenta, Violet, Cyan, Gris clair, Gris foncé, Vert clair, Vert foncé, Noir, Rouge, Ambre, Jaune,
-
-## Randonnées
+## Randonnées à pieds
 ### [La croix de Justin par Ausson.](https://www.visorando.com/randonnee-boucle-sur-la-montagne-de-justin-depuis-/)
 >fa-tree **Difficulté : Moyen  | Distance: 12km | Dénivelé + : 622m**
 Au départ à pied du gite, la rando la plus évidente est sans aucun doute la Croix de Justin au départ d’ausson 
@@ -42,7 +33,7 @@ Le Dôme du Glandasse ( 2041m) est le sommet qui borde les plateaux du vercors c
 >fa-tree [Pour aller plus loin, Top 10 des randos "Coup de cœur" des gens du pays sur le site de l'office de tourisme](https://www.diois-tourisme.com/fr/pays-diois/les-top10-du-pays-diois/top-10-des-randos-coupdecoeur-desgensdupays/)
 {.propositions}
 
-## A vélo
+## Randonnées à vélo
 >Idées de circuits vélos sur [le site de l'office de toursime](https://www.diois-tourisme.com/fr/experiences-outdoor/randonner-en-pays-diois/a-velo-vtt/idees-de-circuits-topos-vtt/)
 A die vous retrouverez des loueur de vélos 
 
