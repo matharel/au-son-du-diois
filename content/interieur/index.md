@@ -32,5 +32,5 @@ Dans la cuisine, il y a tout l'équipement dont vous aurez besoin, cafetière, h
 ![Cuisine avec vue sur la terrasse](Cuisine-terrasse.jpg)
 ![Cuisine](Cusine.jpg)
 ![Le filet entre la salle à manger et la Grande salle](Filet.jpg)
-![Grande salle](Grand-salle(5).jpg)
+![Grande salle](Grand-salle5.jpg)
 ![Grande salle 2](Grand-salle.jpg)
