@@ -25,9 +25,9 @@ Le gîte est **très bien isolé phoniquement et thermiquement** grâce à son m
 
 Dans la cuisine, il y a tout l'équipement dont vous aurez besoin, cafetière, huiles, sel, épices, récipients, poêles et casseroles, grille-pain, bouilloire, congélateur,  micro-onde, four, lave-vaisselle, etc. A completer.
 
-![Chambre x](chambres_0009.jpg)
-![Chambre x2](chambres_0010.jpg)
-![Chambre x3](chambres_0011.jpg)
+![Chambre x](chambres0009.jpg)
+![Chambre x2](chambres0010.jpg)
+![Chambre x3](chambres0011.jpg)
 ![Chambre terrasse](chambres-terrasse.jpg)
 ![Cuisine avec vue sur la terrasse](Cuisine-terrasse.jpg)
 ![Cuisine](Cusine.jpg)
