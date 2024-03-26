@@ -1,6 +1,10 @@
 +++
-title = "Le Gîte"
+title = ""
+menu = "Le Gîte"
+position = 10 
 +++
+
+## Le Gîte ##
 
 Sur 2 niveaux, au rez de chaussée vous trouverez **la Grande pièce de vie de 100m2** avec murs en pierre sèche, mur en pisé, canapé, table basse, et poêle à bois pour l'hiver. Elle peut faire, salon, grande salle de jeu ou d’activité, ou encore salle de bal !
 
@@ -43,4 +47,4 @@ Attenante au gîte, et notamment à la chambre “terrasse”, se trouve **la gr
 ![Photo depuis la terrasse](ext-011.jpg)
 ![Façade est](facade.jpg)
 ![Le gîte](IMGP8513.jpg)
-![Vue depuis le studio](vue-depuis-le-studiocmp.jpg)
+![Vue depuis le studio](vue-depuis-le-studio cmp.jpg)
