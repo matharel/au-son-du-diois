@@ -100,7 +100,7 @@ Plongez dans l'aventure du canyoning dans la Comane à Romeyer lors de votre sé
 
 
 
-## [**Station du col du rousset**](https://www.lesstationsdeladrome.fr/stations/col-du-rousset/)
+## [Station du col du rousset](https://www.lesstationsdeladrome.fr/stations/col-du-rousset/)
 > Hiver comme été a 30 min de Die, découvrez la tranquillité et le charme de la petite station de ski du Col du Rousset lors de votre séjour chez nous. Nichée au cœur du Vercors, cette station offre des pistes variées pour tous les niveaux, ainsi qu'un cadre naturel exceptionnel où se ressourcer en toute quiétude. Profitez de l'ambiance conviviale et familiale de cette station pour des vacances à la montagne authentiques et mémorables.
 
 
