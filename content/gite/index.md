@@ -11,15 +11,15 @@ Sur 2 niveaux, au rez de chaussée vous trouverez **la Grande pièce de vie de 1
 En haut vous trouverez une grande **cuisine collective** toute équipée, une salle à manger qui a la particularité d'avoir un grand filet praticable qui donne au-dessus de la Grande pièce de vie, dans lequel vous pourrez faire votre sieste digestive par exemple !
 
 A l’étage, vous trouverez **5 chambres** dont voici le détail:
->Chambre terrasse : 1x lit double, avec accès direct à la terrasse
+>Chambre Terrasse : 1x lit double, avec accès direct à la terrasse
 
 >Chambre Nid : 1x lit double 1x lit 1 simple
 
->Chambre forêt : 1x lit double 1x lit 1 simple
+>Chambre Forêt : 1x lit double 1x lit 1 simple
 
->Chambre alcove : 2x lits double et 1x lit 1 simple
+>Chambre Alcove : 2x lits double et 1x lit 1 simple
 
->Chambre au hublot  : 2x lits simple
+>Chambre Hublot  : 2x lits simple
 
 >Mezzanine au dessus de la cuisine, avec possibilité d’avoir des lits individuels
 
@@ -41,8 +41,7 @@ Dans la cuisine, il y a tout l'équipement dont vous aurez besoin, cafetière, h
 
 ## L'extérieur ##
 
-Le gîte se trouve au bord d’une parcelle de forêt
-Attenante au gîte, et notamment à la chambre “terrasse”, se trouve **la grande terrasse privative** en bois, de 80m². Vous pourrez profiter sereinement de la **vue sur les contreforts du Vercors**, avec une vue imprenable sur le dôme du Glandasse. Si vous cherchez la fraîcheur, vous pourrez profiter d’une **sieste à l’ombre de la forêt, sur une terrasse forestière**. Promenez-vous librement sur notre domaine et laissez-vous émerveiller par les murs en pierre sèche, bâti par nos soins, ainsi que par notre charmant verger, planté avec amour en 2024.
+Le gîte se trouve au bord d’une parcelle de forêt attenante au gîte, et notamment à la chambre “terrasse”, se trouve **la grande terrasse privative** en bois, de 80m². Vous pourrez profiter sereinement de la **vue sur les contreforts du Vercors**, avec une vue imprenable sur le dôme du Glandasse. Si vous cherchez la fraîcheur, vous pourrez profiter d’une **sieste à l’ombre de la forêt, sur une terrasse forestière**. Promenez-vous librement sur notre domaine et laissez-vous émerveiller par les murs en pierre sèche, bâti par nos soins, ainsi que par notre charmant verger, planté avec amour en 2024.
 
 ![Photo depuis la terrasse](ext-011.jpg)
 ![Façade est](facade.jpg)
