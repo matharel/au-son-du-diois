@@ -12,3 +12,4 @@ Situé à la sortie de Die dans la parc naturel régional du Vercors, notre gît
 ](Cuisine.jpg)
 
 
+Je fais un petit test.
