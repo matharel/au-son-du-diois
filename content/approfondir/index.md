@@ -1,6 +1,6 @@
 +++
 title = "Pour aller plus loin"
-menu = "Approfondir...'
+menu = "Approfondir..."
 position = 5
 +++
 
