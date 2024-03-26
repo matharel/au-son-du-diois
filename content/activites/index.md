@@ -32,7 +32,7 @@ Le Dôme du Glandasse ( 2041m) est le sommet qui borde les plateaux du vercors c
 
 
 
->  {{<fa-arrow-right>}} [**Pour aller plus loin, Top 10 des randos "Coup de cœur" des gens du pays sur le site de l'office de tourisme**](https://www.diois-tourisme.com/fr/pays-diois/les-top10-du-pays-diois/top-10-des-randos-coupdecoeur-desgensdupays/)
+>  {{< fa-arrow-right >}} [**Pour aller plus loin, Top 10 des randos "Coup de cœur" des gens du pays sur le site de l'office de tourisme**](https://www.diois-tourisme.com/fr/pays-diois/les-top10-du-pays-diois/top-10-des-randos-coupdecoeur-desgensdupays/)
 
 
 
