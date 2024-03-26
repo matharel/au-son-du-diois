@@ -47,4 +47,4 @@ Attenante au gîte, et notamment à la chambre “terrasse”, se trouve **la gr
 ![Photo depuis la terrasse](ext-011.jpg)
 ![Façade est](facade.jpg)
 ![Le gîte](IMGP8513.jpg)
-![Vue depuis le studio](vue-depuis-le-studio cmp.jpg)
+![Vue depuis le studio](vue-depuis-le-studiocmp.jpg)
