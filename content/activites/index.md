@@ -15,7 +15,6 @@ C’est une face nord est, idéale pour les journées chaudes d’été, elle of
 ### [Le cirque d'Archiane, vautours en Diois](https://www.visorando.com/randonnee-les-carnets-d-archiane/)
 
 > **Difficulté : Facile | Distance : 6km | Dénivelé+ : 374m**
-
 Petite randonnée dans un lieu magnifique au pied du Vercors, vous vous retrouverez au milieu de celle-ci dans un site d’observation de vautours fauves, ou se trouvent des jumelles d’observations gratuites ! 
 
 
@@ -30,7 +29,8 @@ Petite randonnée dans un lieu magnifique au pied du Vercors, vous vous retrouve
 Le Dôme du Glandasse ( 2041m) est le sommet qui borde les plateaux du vercors côté Die. [Au départ de l’Abbay de Valcroissant](https://www.altituderando.com/Dome-du-Glandasse-ou-Pie-Ferre-2041m-par-l-Abbaye-de-Valcroissant), [ou de Châtillon en Diois](https://www.altituderando.com/Dome-du-Glandasse-ou-Pie-Ferre-2041m-par-Chatillon-en-Diois) , cette longue randonnée est un petit challenge du Diois.
 
 
-> [Pour aller plus loin, Top 10 des randos "Coup de cœur" des gens du pays sur le site de l'office de tourisme](https://www.diois-tourisme.com/fr/pays-diois/les-top10-du-pays-diois/top-10-des-randos-coupdecoeur-desgensdupays/)
+
+>  {{<fa-arrow-right>}} [**Pour aller plus loin, Top 10 des randos "Coup de cœur" des gens du pays sur le site de l'office de tourisme**](https://www.diois-tourisme.com/fr/pays-diois/les-top10-du-pays-diois/top-10-des-randos-coupdecoeur-desgensdupays/)
 
 
 ## Randonnées à vélo
@@ -39,7 +39,7 @@ A die vous retrouverez des loueur de vélos
 
 
 ## Via Ferrata
-> De difficulté AD , D à TD,  le Diois comporte 4 via ferratas . Détail sur (la brochure de l’office de tourisme)[https://app.avizi.fr/fichiers/preview/5f8b04346ca6d/12307-1341]
+> De difficulté AD , D à TD,  le Diois comporte 4 via ferratas . [Détail sur la brochure de l’office de tourisme](https://app.avizi.fr/fichiers/preview/5f8b04346ca6d/12307-1341)
 Retrouvez des loueurs de matériel dans la zone d’activité de Die, ou route d’Ausson.
 
 ## Escalade
@@ -59,18 +59,17 @@ Le claps est un chaos rocheux vieux de quelques centaines d’années. L’ébou
 
 
 ## Canyoning
-> **la Comane**
-Plongez dans l'aventure du canyoning dans la Comane à Romeyer lors de votre séjour chez nous. Une expérience rafraîchissante et inoubliable vous attend. https://www.diois-tourisme.com/fr/experiences-outdoor/activites-de-plein-air/canyoning-rando-aquatique/
+> [**Sur la rivière Comane**](https://www.diois-tourisme.com/fr/experiences-outdoor/activites-de-plein-air/canyoning-rando-aquatique/)
+Plongez dans l'aventure du canyoning dans la Comane à Romeyer lors de votre séjour chez nous. Une expérience rafraîchissante et inoubliable vous attend. 
 
 
 
 ## Trotinette électrique tout terrain
-> [Trottinette tout terrain encadrée avec EVA Location](https://www.diois-tourisme.com/noesit/!/fiche/trottinette-tout-terrain-encadree-avec-eva-location-257076/)
+> [**Avec EVA Location**](https://www.diois-tourisme.com/noesit/!/fiche/trottinette-tout-terrain-encadree-avec-eva-location-257076/)
 
 
-## [Station du col du rousset](https://www.lesstationsdeladrome.fr/stations/col-du-rousset/)
-> Hiver comme été
-A 30 min de Die, découvrez la tranquillité et le charme de la petite station de ski du Col du Rousset lors de votre séjour chez nous. Nichée au cœur du Vercors, cette station offre des pistes variées pour tous les niveaux, ainsi qu'un cadre naturel exceptionnel où se ressourcer en toute quiétude. Profitez de l'ambiance conviviale et familiale de cette station pour des vacances à la montagne authentiques et mémorables.
+## [**Station du col du rousset**](https://www.lesstationsdeladrome.fr/stations/col-du-rousset/)
+> Hiver comme été a 30 min de Die, découvrez la tranquillité et le charme de la petite station de ski du Col du Rousset lors de votre séjour chez nous. Nichée au cœur du Vercors, cette station offre des pistes variées pour tous les niveaux, ainsi qu'un cadre naturel exceptionnel où se ressourcer en toute quiétude. Profitez de l'ambiance conviviale et familiale de cette station pour des vacances à la montagne authentiques et mémorables.
 
 
 ## Kayak
