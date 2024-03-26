@@ -1,5 +1,5 @@
 +++
-title= "Accueil"
+title = "Accueil"
 +++
 
 ## Au son du Diois

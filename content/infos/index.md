@@ -1,6 +1,6 @@
 +++
 title = "Contact"
-menu = ""
+menu = "Contact"
 position = 40
 +++
 

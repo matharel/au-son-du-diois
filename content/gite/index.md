@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Le Gîte"
 menu = "Le Gîte"
 position = 10 
 +++
