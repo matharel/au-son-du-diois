@@ -33,14 +33,30 @@ Le Dôme du Glandasse ( 2041m) est le sommet qui borde les plateaux du vercors c
 >  {{<fa-arrow-right>}} [**Pour aller plus loin, Top 10 des randos "Coup de cœur" des gens du pays sur le site de l'office de tourisme**](https://www.diois-tourisme.com/fr/pays-diois/les-top10-du-pays-diois/top-10-des-randos-coupdecoeur-desgensdupays/)
 
 
+
+
+
+
+
 ## Randonnées à vélo
 > Idées de circuits vélos sur [le site de l'office de toursime](https://www.diois-tourisme.com/fr/experiences-outdoor/randonner-en-pays-diois/a-velo-vtt/idees-de-circuits-topos-vtt/)
 A die vous retrouverez des loueur de vélos 
 
 
+
+
+
+
+
 ## Via Ferrata
 > De difficulté AD , D à TD,  le Diois comporte 4 via ferratas . [Détail sur la brochure de l’office de tourisme](https://app.avizi.fr/fichiers/preview/5f8b04346ca6d/12307-1341)
 Retrouvez des loueurs de matériel dans la zone d’activité de Die, ou route d’Ausson.
+
+
+
+
+
+
 
 ## Escalade
 > Le diois regorge de sites d’escalades, il y en a pour tous les goûts. Vous pourrez trouver les topos “Escalade dans le Diois” du club associatif local d’escalade en vente à la librairie Mozaïque à Die. Ou “Escalade en Drôme - Vallée de la Drôme et DIOIS” par la FFME
@@ -58,9 +74,18 @@ Un petit site de couenne sportif avec quelques grandes voies en terrain d’aven
 Le claps est un chaos rocheux vieux de quelques centaines d’années. L’éboulement d’une plaque de calcaire a créé un terrain de jeu idéal pour l’escalade. Retrouvez une grande voie 5a max sur une dalle couchée de + de 200m, des voies d’une longueur dans le chaos rocheux, des blocs et une via ferrata cotée AD. En plus vous pourrez finir votre session par piquer une tête dans la drôme qui traverse le site !
 
 
+
+
+
+
+
 ## Canyoning
 > [**Sur la rivière Comane**](https://www.diois-tourisme.com/fr/experiences-outdoor/activites-de-plein-air/canyoning-rando-aquatique/)
 Plongez dans l'aventure du canyoning dans la Comane à Romeyer lors de votre séjour chez nous. Une expérience rafraîchissante et inoubliable vous attend. 
+
+
+
+
 
 
 
@@ -68,8 +93,18 @@ Plongez dans l'aventure du canyoning dans la Comane à Romeyer lors de votre sé
 > [**Avec EVA Location**](https://www.diois-tourisme.com/noesit/!/fiche/trottinette-tout-terrain-encadree-avec-eva-location-257076/)
 
 
+
+
+
+
+
 ## [**Station du col du rousset**](https://www.lesstationsdeladrome.fr/stations/col-du-rousset/)
 > Hiver comme été a 30 min de Die, découvrez la tranquillité et le charme de la petite station de ski du Col du Rousset lors de votre séjour chez nous. Nichée au cœur du Vercors, cette station offre des pistes variées pour tous les niveaux, ainsi qu'un cadre naturel exceptionnel où se ressourcer en toute quiétude. Profitez de l'ambiance conviviale et familiale de cette station pour des vacances à la montagne authentiques et mémorables.
+
+
+
+
+
 
 
 ## Kayak
