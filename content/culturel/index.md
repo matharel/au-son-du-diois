@@ -1,7 +1,7 @@
 +++
 title = "Sortir à Die"
 menu = "Activités culturelles"
-
+position = 30
 +++
 
 ## Les événements annuels du Diois

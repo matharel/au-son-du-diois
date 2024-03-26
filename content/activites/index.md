@@ -1,5 +1,7 @@
 +++
-title = "Randonnées et activités plein air"
+title = "Activités"
+menu = "Randonnées"
+position = 2
 +++
 
 
