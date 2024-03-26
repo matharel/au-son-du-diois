@@ -10,6 +10,3 @@ Situé à la sortie de Die dans la parc naturel régional du Vercors, notre gît
 
 ![Photo de la terrasse depuis la cuisine
 ](Cuisine.jpg)
-
-
-Je fais un petit test.
