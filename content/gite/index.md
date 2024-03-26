@@ -45,5 +45,5 @@ Le gîte se trouve au bord d’une parcelle de forêt attenante au gîte, et not
 
 ![Photo depuis la terrasse](ext-011.jpg)
 ![Façade est](facade.jpg)
-![Le gîte](IMGP8513.jpg)
+![Le gîte](IMGP8488.jpg)
 ![Vue depuis le studio](vue-depuis-le-studiocmp.jpg)
