@@ -1,27 +1,41 @@
 +++
-title = "Le Gîte"
+title = "Un gîte de groupe spacieux en bordure de forêt et face au Vercors"
 menu = "Le Gîte"
 position = 10 
 +++
 
-## Le Gîte ##
-
+## Une immense sale d'activité
 Sur 2 niveaux, au rez de chaussée vous trouverez **la Grande pièce de vie de 100m2** avec murs en pierre sèche, mur en pisé, canapé, table basse, et poêle à bois pour l'hiver. Elle peut faire, salon, grande salle de jeu ou d’activité, ou encore salle de bal !
+![Grande salle](Grand-salle5.jpg)
 
+
+## La cuisine collective
 En haut vous trouverez une grande **cuisine collective** toute équipée, une salle à manger qui a la particularité d'avoir un grand filet praticable qui donne au-dessus de la Grande pièce de vie, dans lequel vous pourrez faire votre sieste digestive par exemple !
+![Cuisine](Cusine.jpg)
 
 A l’étage, vous trouverez **5 chambres** dont voici le détail:
->Chambre Terrasse : 1x lit double, avec accès direct à la terrasse
 
->Chambre Nid : 1x lit double 1x lit 1 simple
+## Chambre Terrasse 
+1x lit double, avec accès direct à la terrasse
+![Chambre terrasse](chambres
+terrasse.jpg)
 
->Chambre Forêt : 1x lit double 1x lit 1 simple
+## Chambre Nid
+1x lit double 1x lit 1 simple
+![Chambre Nid](chambrenid.jpg)
 
->Chambre Alcove : 2x lits double et 1x lit 1 simple
+## Chambre Forêt
+1x lit double 1x lit 1 simple
 
->Chambre Hublot  : 2x lits simple
 
->Mezzanine au dessus de la cuisine, avec possibilité d’avoir des lits individuels
+## Chambre Alcove
+2x lits double et 1x lit 1 simple
+
+## Chambre Hublot
+2x lits simple
+
+## Mezzanine
+Avec possibilité d’avoir des lits individuels
 
 Le logement est équipé de **2 toilettes sèches** séparées dont un avec un urinoir, et de **2 salle de bains** dont une avec douche à l'italienne et baignoire.
 
@@ -39,7 +53,7 @@ Dans la cuisine, il y a tout l'équipement dont vous aurez besoin, cafetière, h
 ![Grande salle](Grand-salle5.jpg)
 ![Grande salle 2](Grand-salle.jpg)
 
-## L'extérieur ##
+## L'extérieur
 
 Le gîte se trouve au bord d’une parcelle de forêt attenante au gîte, et notamment à la chambre “terrasse”, se trouve **la grande terrasse privative** en bois, de 80m². Vous pourrez profiter sereinement de la **vue sur les contreforts du Vercors**, avec une vue imprenable sur le dôme du Glandasse. Si vous cherchez la fraîcheur, vous pourrez profiter d’une **sieste à l’ombre de la forêt, sur une terrasse forestière**. Promenez-vous librement sur notre domaine et laissez-vous émerveiller par les murs en pierre sèche, bâti par nos soins, ainsi que par notre charmant verger, planté avec amour en 2024.
 
