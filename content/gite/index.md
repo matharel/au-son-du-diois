@@ -27,14 +27,14 @@ En haut vous trouverez une grande **cuisine collective** toute équipée, une sa
 
 
 ## Chambre Alcove
-2x lits double et 1x lit 1 simple
+1x lits double et 4x lit 1 simple
 ![Chambre Alcove](chambrealcove.jpg)
 
 ## Chambre Hublot
 2x lits simple
 
 ## Mezzanine
-Avec possibilité d’avoir des lits individuels
+3x lits simple
 
 ## Salle de bain avec baignoire
 Une salle de bain à l'étage avec baignoire et douche à l'italienne
