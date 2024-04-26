@@ -2,14 +2,14 @@ baseURL = "/"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
 title = "My New Hugo Site"
-theme = "seb-doc"
+# theme = "seb-doc"
 timeout = 600_000
 enableRobotsTXT = true
 
 [[module.imports]]
 path = "github.com/hugo-mods/lazyimg"
 [[module.imports]]
-# path = "github.com/matharel/seb-doc"
+path = "github.com/matharel/seb-doc"
 
 [params]
 breadcrumbDepth = 0
