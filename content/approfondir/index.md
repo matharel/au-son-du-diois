@@ -1,6 +1,6 @@
 +++
 title = "Pour aller plus loin"
-menu = "Approfondir..."
-position = 5
+linkTitle = "Approfondir..."
+weight = 5
 +++
 

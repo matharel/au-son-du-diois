@@ -1,7 +1,7 @@
 +++
 title = "Un gîte de groupe spacieux en bordure de forêt et face au Vercors"
-menu = "Le Gîte"
-position = 10 
+linkTitle = "Le Gîte"
+weight = 10 
 +++
 
 ## Une immense sale d'activité

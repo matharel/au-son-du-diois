@@ -1,7 +1,8 @@
 +++
 title = "Sortir à Die"
-menu = "Activités culturelles"
-position = 30
+linkTitle = "Activités culturelles"
+slug = "activites-culturelles"
+weight = 30
 +++
 
 ## Les événements annuels du Diois

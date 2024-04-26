@@ -1,7 +1,8 @@
 +++
 title = "Contact"
-menu = "Contact"
-position = 40
+linkTitle = "Contact"
+slug = "contact"
+weight = 40
 +++
 
 ## Contacts ## 

@@ -1,7 +1,8 @@
 +++
 title = "Activités"
-menu = "Randonnées"
-position = 2
+linkTitle = "Randonnées"
+slug = "activites-exterieures"
+weight = 20
 +++
 
 
