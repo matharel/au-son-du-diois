@@ -8,12 +8,12 @@ weight = 40
 ## Tarifs
 Location à partir de 2 nuits de septembre à juin et 7 nuits en juillet et aout. Les tarifs n'évoluent pas en fonction de la saison. Les prix sont dégréssif à partir de la 3eme nuit
 
--2 nuits = 1000€
--3 nutis = 1320€
--4 nuits = 1600€
--5 nuits = 1800€
--6 nuits = 1980€
--7 nuits = 2100€
+  - 2 nuits = 1000€
+  - 3 nutis = 1320€
+  - 4 nuits = 1600€
+  - 5 nuits = 1800€
+  - 6 nuits = 1980€
+  - 7 nuits = 2100€
 
 Les draps sont inclus
 Le ménage est un plus : 160€
