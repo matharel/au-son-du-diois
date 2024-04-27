@@ -4,7 +4,7 @@ linkTitle = "Le Gîte"
 weight = 10 
 +++
 
-## Une immense sale d'activité
+## Une immense salle d'activité
 Sur 2 niveaux, retrouvez au rez de chaussée **la Grande pièce de vie de 100m2** avec murs en pierre sèche, mur en pisé, canapé, table basse, et poêle à bois pour l'hiver. Elle peut faire, salon, grande salle de jeu ou d’activité, ou encore salle de bal !
 Le gîte est **très bien isolé phoniquement et thermiquement** grâce à son mur en pisé, et ses murs en brique de terre compressée et en terre banchée . Conçu pour être un studio d’enregistrement, les chambres sont bien isolées phoniquement.
 ![La Grande Salle](Grandesalle2.jpg)
