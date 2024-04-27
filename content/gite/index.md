@@ -2,6 +2,7 @@
 title = "Un gîte de groupe spacieux en bordure de forêt et face au Vercors"
 linkTitle = "Le Gîte"
 weight = 10 
+TOC = true
 +++
 
 ## Une immense sale d'activité

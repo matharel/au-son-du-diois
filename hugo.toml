@@ -12,8 +12,9 @@ path = "github.com/hugo-mods/lazyimg"
 path = "github.com/matharel/seb-doc"
 
 [params]
+brand = "Au Son du Diois"
 breadcrumbDepth = 0
-breadcrumb = 2
+breadcrumb = 0 # 2
 gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
 
   [params.lazyimg]
