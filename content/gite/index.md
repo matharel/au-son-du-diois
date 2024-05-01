@@ -37,14 +37,12 @@ En haut vous trouverez une grande **cuisine collective** toute équipée, une sa
 ## Mezzanine
 3x lits simple
 
-## Salle de bain avec baignoire
-Une salle de bain à l'étage avec baignoire et douche à l'italienne.
-
-## Douche de couple
+## Salles de bains
 Au rez-de-chaussée, une douche avec 2 pommeaux pour prendre sa douche en couple, ou pas !
+A l'étage retrouvez 2 autres salles de bains dont une avec douche à l'italienne et baignoire.
 
 ## Toilettes sèches
-Le logement est équipé de **2 toilettes sèches**, dont une avec un urinoir, et de 3 salles de bains, dont une avec douche à l'italienne et baignoire.
+Le logement est équipé de **2 toilettes sèches**, dont un avec un urinoir.
 
 ## La terrasse
 Sur la **Grande terrasse privative** en bois de 80m², vous pourrez profiter sereinement de la **vue sur les contreforts du Vercors**, avec une vue imprenable sur le dôme du Glandasse.
