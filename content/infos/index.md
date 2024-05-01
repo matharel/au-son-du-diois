@@ -5,7 +5,10 @@ weight = 40
 +++
 
 ## Tarifs
-Location à partir de 2 nuits de septembre à juin et 7 nuits en juillet et août. Les tarifs n'évoluent pas en fonction de la saison. Les prix sont dégréssif à partir de la 3ème nuit.
+Reservation minimale Septembre à Juin : 2 nuits
+Reservation minimale Juillet et Août : 7 nuits
+
+Les tarifs ci-dessous sont valables toute l'année :
 
   - 2 nuits = 1000€
   - 3 nutis = 1320€
@@ -19,7 +22,7 @@ Ménage : + 160€
 
 ## Agenda 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=61bfd7fc7d3dd11ae7d00bbe90ed21d5510243f9b4e6a5186d0782405d6f62da%40group.calendar.google.com&ctz=Europe%2FParis" style="border-width:0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FParis&bgcolor=%23ffffff&showTitle=0&showPrint=0&showTabs=0&showCalendars=0&src=NjFiZmQ3ZmM3ZDNkZDExYWU3ZDAwYmJlOTBlZDIxZDU1MTAyNDNmOWI0ZTZhNTE4NmQwNzgyNDA1ZDZmNjJkYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Contacts
 
