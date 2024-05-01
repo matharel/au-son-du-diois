@@ -1,6 +1,6 @@
 +++
-title = " {{< fa phone >}} Contact et Agenda "
-linkTitle = "Contact et Agenda"
+title = "Contact et Agenda"
+linkTitle = "{{< fa phone >}} Contact et Agenda"
 slug = "contact"
 weight = 40
 +++
