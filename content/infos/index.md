@@ -1,11 +1,11 @@
 +++
-title = "{{< fa phone >}} Contact et Agenda"
+title = " {{< fa phone >}} Contact et Agenda "
 slug = "contact"
 weight = 40
 +++
 
 ## Tarifs
-Location à partir de 2 nuits de septembre à juin et 7 nuits en juillet et aout. Les tarifs n'évoluent pas en fonction de la saison. Les prix sont dégréssif à partir de la 3eme nuit
+Location à partir de 2 nuits de septembre à juin et 7 nuits en juillet et août. Les tarifs n'évoluent pas en fonction de la saison. Les prix sont dégréssif à partir de la 3ème nuit.
 
   - 2 nuits = 1000€
   - 3 nutis = 1320€
