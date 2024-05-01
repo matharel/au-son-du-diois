@@ -17,10 +17,13 @@ Location à partir de 2 nuits de septembre à juin et 7 nuits en juillet et aoû
 Les draps sont inclus
 Le ménage est un plus : 160€
 
+## Agenda 
 
-## Contacts ## 
+<iframe src="https://calendar.google.com/calendar/embed?src=61bfd7fc7d3dd11ae7d00bbe90ed21d5510243f9b4e6a5186d0782405d6f62da%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-> {{< fa phone >}} 07 81 11 21 76
+## Contacts
+
+> {{< fa phone >}} +33 7 81 11 21 76
 
 > {{< fa at >}} diwawatt@gmail.com
 

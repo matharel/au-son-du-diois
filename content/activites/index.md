@@ -1,6 +1,6 @@
 +++
 title = "Activités"
-linkTitle = "Randonnées"
+linkTitle = "Activités nature"
 slug = "activites-exterieures"
 weight = 20
 TOC = true
