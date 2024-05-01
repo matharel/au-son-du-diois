@@ -56,8 +56,8 @@ Le Claps est un chaos rocheux vieux de quelques centaines d’années. L’ébou
 Plongez dans l'aventure du canyoning dans la Comane à Romeyer lors de votre séjour chez nous. Une expérience rafraîchissante et inoubliable vous attend. 
 
 ## [Station du col du rousset](https://www.lesstationsdeladrome.fr/stations/col-du-rousset/)
-> Hiver comme été a 30 min de Die, découvrez la tranquillité et le charme de la petite station de ski du Col du Rousset lors de votre séjour chez nous. Nichée au cœur du Vercors, cette station offre des pistes variées pour tous les niveaux, ainsi qu'un cadre naturel exceptionnel où se ressourcer en toute quiétude. Profitez de l'ambiance conviviale et familiale de cette station.
+> Hiver comme été a 30 min de Die, découvrez la tranquillité et le charme de la petite station de ski familiale du Col du Rousset. Nichée au cœur du Vercors, cette station offre des pistes variées pour tous les niveaux, ainsi qu'un cadre naturel exceptionnel où se ressourcer en toute quiétude.
 
 ## Kayak
 >kayak sur la rivière drôme
-Plongez au cœur de la nature et explorez les eaux calmes de la Drôme en kayak lors de votre séjour chez nous. Que vous soyez débutant ou expert, laissez-vous séduire par la beauté sauvage de cette rivière et vivez des moments d'aventure et de détente en famille ou entre amis. Retrouvez des loueurs de canoés dans la vallée de la drome entre Die et Crest
+Plongez au cœur de la nature et explorez les eaux calmes de la Drôme en kayak. Que vous soyez débutant ou expert, laissez-vous séduire par la beauté sauvage de cette rivière et vivez des moments d'aventure et de détente en famille ou entre amis. Retrouvez des loueurs de canoés dans la vallée de la drome entre Die et Crest
