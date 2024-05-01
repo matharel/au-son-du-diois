@@ -1,6 +1,5 @@
 +++
 title = "Sortir à Die"
-linkTitle = "Activités culturelles"
 slug = "activites-culturelles"
 weight = 30
 TOC = true
