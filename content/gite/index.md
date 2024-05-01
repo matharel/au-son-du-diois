@@ -10,8 +10,8 @@ Sur deux niveaux, retrouvez au rez de chaussée **la Grande pièce de vie de 100
 Le gîte est **très bien isolé phoniquement et thermiquement** grâce à son mur en pisé, et ses murs en brique de terre compressée et en terre banchée. Conçu pour être un studio d’enregistrement, les chambres sont bien isolées phoniquement.
 ![La Grande Salle](Grandesalle2.jpg)
 
-> Pour la construction de ce gîte, nous tenions à utiliser au maximum des matériaux locaux, écologiques, et les savoirs faires qui vont avec. Avec notamment, murs en pisé, murs en terre banchée, murs en briques de terre compressées, murs en pière sèches, isolation en paille... Ce qui donne une batisse "prèsque" passive.
-{.Qu'est-ce que ça sous entend écoconstruction?}
+> Pour la construction de ce gîte, nous tenions à utiliser au maximum des matériaux locaux, écologiques, et les savoir-faire qui vont avec. Avec notamment, murs en pisé, murs en terre banchée, murs en briques de terre compressées, murs en pierre sèche, isolation en paille... Ce qui donne une bâtisse "presque" passive.
+{.Qu'est-ce que ça sous-entend, l'écoconstruction ?}
 
 ## La cuisine collective
 En haut vous trouverez une grande **cuisine collective** toute équipée, une salle à manger qui a la particularité d'avoir **un grand filet praticable** qui donne au-dessus de la Grande pièce de vie, dans lequel vous pourrez faire votre sieste digestive par exemple ! Vous trouverez tout l'équipement dont vous aurez besoin, cafetière, huiles, sel, épices, récipients, poêles et casseroles, grille-pain, bouilloire, congélateur,  micro-onde, four, lave-vaisselle, etc.
@@ -57,4 +57,5 @@ Le gîte se trouve au bord d’une parcelle de forêt attenante au gîte. Si vou
 ## La rivière
 En face de la route, se trouve un acces à la rivière par un chemin dérobé.
 
-
+> Oui, ce gîte est également fait pour être un studio d'enregistrement ! L'idée est de pouvoir accueillir des groupes sur place pendant plusieurs jours, et d'utiliser les chambres, et la grande salle - que l'on appelle "live room" - pour enregistrer chaque musicien.
+{.Un studio d'enregistrement ?}
