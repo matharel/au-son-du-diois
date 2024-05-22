@@ -42,6 +42,7 @@ En haut vous trouverez une grande **cuisine collective** toute équipée, une sa
 ## Salles de bains
 Au rez-de-chaussée, une douche avec 2 pommeaux pour prendre sa douche en couple, ou pas !
 A l'étage retrouvez 2 autres salles de bains dont une avec douche à l'italienne et baignoire.
+![Salle de bain avec douche et baignoire](salle_de_bain_1.jpg)
 
 ## Toilettes sèches
 Le logement est équipé de **2 toilettes sèches**, dont un avec un urinoir.
