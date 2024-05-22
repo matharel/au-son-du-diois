@@ -8,14 +8,14 @@ TOC = true
 ## Une immense salle d'activité
 Sur deux niveaux, retrouvez au rez de chaussée **la Grande pièce de vie de 100m2** avec mur massif en pisé, canapé, table basse, et poêle à bois pour l'hiver. Elle peut faire office de salon, de grande salle de jeu ou d’activité, ou encore de salle de bal !
 Le gîte est **très bien isolé phoniquement et thermiquement** grâce à son mur en pisé, et ses murs en brique de terre compressée et en terre banchée. Conçu pour être un studio d’enregistrement, les chambres sont bien isolées phoniquement.
-![La Grande Salle](Grandesalle2.jpg)
+![grande salle d'activité avec baie vitrée](grandesalle1.jpg)
 
 > Pour la construction de ce gîte, nous tenions à utiliser au maximum des matériaux locaux, écologiques, et les savoir-faire qui vont avec. Avec notamment, murs en pisé, murs en terre banchée, murs en briques de terre compressées, murs en pierre sèche, isolation en paille... Ce qui donne une bâtisse "presque" passive.
 {.Qu'est-ce que ça sous-entend, l'écoconstruction ?}
 
 ## La cuisine collective
 En haut vous trouverez une grande **cuisine collective** toute équipée, une salle à manger qui a la particularité d'avoir **un grand filet praticable** qui donne au-dessus de la Grande pièce de vie, dans lequel vous pourrez faire votre sieste digestive par exemple ! Vous trouverez tout l'équipement dont vous aurez besoin, cafetière, huiles, sel, épices, récipients, poêles et casseroles, grille-pain, bouilloire, congélateur,  micro-onde, four, lave-vaisselle, etc.
-![La cuisine](Cusine.jpg)
+![La cuisine du gîte](Cusine.jpg)
 
 ## Chambre Terrasse 
 1x lit double, avec accès direct à la terrasse
@@ -28,7 +28,6 @@ En haut vous trouverez une grande **cuisine collective** toute équipée, une sa
 ## Chambre Forêt
 1x lit double 1x lit simple
 ![Chambre forêt](chambreforet.jpg)
-
 
 ## Chambre Alcove
 1x lit double et 4x lits 1 simple
