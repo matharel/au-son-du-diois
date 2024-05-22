@@ -8,3 +8,4 @@ Situé à la sortie de Die dans la parc naturel régional du Vercors, notre gît
 ![au son du diois dans le diois avec le vercors en arrière plan](gitevercors.jpg)
 ![photo d'un hamac au frais dans la forêt](foret_avec_hamac.jpg)
 ![Vue depuis le gîte sur le Vercors et ses montagnes](montage_vercors.jpg)
+![terrasse du gite avec la vue sur le vercors](terrasse.jpg)
