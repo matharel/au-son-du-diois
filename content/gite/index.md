@@ -8,7 +8,7 @@ TOC = true
 ## Une immense salle d'activité
 Sur deux niveaux, retrouvez au rez de chaussée **la Grande pièce de vie de 100m2** avec mur massif en pisé, canapé, table basse, et poêle à bois pour l'hiver. Elle peut faire office de salon, de grande salle de jeu ou d’activité, ou encore de salle de bal !
 Le gîte est **très bien isolé phoniquement et thermiquement** grâce à son mur en pisé, et ses murs en brique de terre compressée et en terre banchée. Conçu pour être un studio d’enregistrement, les chambres sont bien isolées phoniquement.
-![grande salle d'activité avec baie vitrée](grandesalle1.jpg)
+![grande salle d'activité avec baie vitrée](Grandesalle2.jpg)
 
 > Pour la construction de ce gîte, nous tenions à utiliser au maximum des matériaux locaux, écologiques, et les savoir-faire qui vont avec. Avec notamment, murs en pisé, murs en terre banchée, murs en briques de terre compressées, murs en pierre sèche, isolation en paille... Ce qui donne une bâtisse "presque" passive.
 {.Qu'est-ce que ça sous-entend, l'écoconstruction ?}
