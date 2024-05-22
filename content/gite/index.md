@@ -16,6 +16,7 @@ Le gîte est **très bien isolé phoniquement et thermiquement** grâce à son m
 ## La cuisine collective
 En haut vous trouverez une grande **cuisine collective** toute équipée, une salle à manger qui a la particularité d'avoir **un grand filet praticable** qui donne au-dessus de la Grande pièce de vie, dans lequel vous pourrez faire votre sieste digestive par exemple ! Vous trouverez tout l'équipement dont vous aurez besoin, cafetière, huiles, sel, épices, récipients, poêles et casseroles, grille-pain, bouilloire, congélateur,  micro-onde, four, lave-vaisselle, etc.
 ![La cuisine du gîte](Cusine.jpg)
+![Photo du filet entre la salle d'activité et la salle a manger](Filet.jpg)
 
 ## Chambre Terrasse 
 1x lit double, avec accès direct à la terrasse
