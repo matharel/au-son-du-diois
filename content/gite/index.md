@@ -54,7 +54,7 @@ Sur la **Grande terrasse privative** en bois de 80m², vous pourrez profiter ser
 
 ## La forêt
 Le gîte se trouve au bord d’une parcelle de forêt attenante au gîte. Si vous cherchez la fraîcheur, vous pourrez **profiter d’une sieste à l’ombre de la forêt, sur une terrasse forestière**. Promenez-vous librement sur notre domaine et laissez-vous émerveiller par les murs en pierre sèche, bâtis par nos soins, ainsi que par notre charmant verger, planté avec amour en 2024.
-![Photo de la forêt avec un  hamac]](foret_avec_hamac.jpg)
+![Photo de la forêt avec un  hamac](foret_avec_hamac.jpg)
 
 ## La rivière
 En face de la route, se trouve un acces à la rivière par un chemin dérobé.
