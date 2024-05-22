@@ -18,6 +18,10 @@ En haut vous trouverez une grande **cuisine collective** toute équipée, une sa
 ![La cuisine du gîte](Cusine.jpg)
 ![Photo du filet entre la salle d'activité et la salle a manger](Filet.jpg)
 
+## La terrasse
+Sur la **Grande terrasse privative** en bois de 80m², vous pourrez profiter sereinement de la **vue sur les contreforts du Vercors**, avec une vue imprenable sur le dôme du Glandasse.
+![Terrasse du gîte avec vue sur le vercors](terrasse.jpg)
+
 ## Chambre Terrasse 
 1x lit double, avec accès direct à la terrasse
 ![Chambre terrasse](chambresterrasse.jpg)
@@ -48,10 +52,6 @@ A l'étage retrouvez 2 autres salles de bains dont une avec douche à l'italienn
 ## Toilettes sèches
 Le logement est équipé de **2 toilettes sèches**, dont un avec un urinoir.
 ![Toilettes seches](toilettes_seches.jpg)
-
-## La terrasse
-Sur la **Grande terrasse privative** en bois de 80m², vous pourrez profiter sereinement de la **vue sur les contreforts du Vercors**, avec une vue imprenable sur le dôme du Glandasse.
-![Terrasse du gîte avec vue sur le vercors](terrasse.jpg)
 
 ## La forêt
 Le gîte se trouve au bord d’une parcelle de forêt attenante au gîte. Si vous cherchez la fraîcheur, vous pourrez **profiter d’une sieste à l’ombre de la forêt, sur une terrasse forestière**. Promenez-vous librement sur notre domaine et laissez-vous émerveiller par les murs en pierre sèche, bâtis par nos soins, ainsi que par notre charmant verger, planté avec amour en 2024.
