@@ -12,11 +12,11 @@ Reservation minimale Juillet et Août : 7 nuits
 Les tarifs ci-dessous sont valables toute l'année :
 
   - 2 nuits = 1000€
-  - 3 nutis = 1320€
-  - 4 nuits = 1600€
-  - 5 nuits = 1800€
-  - 6 nuits = 1980€
-  - 7 nuits = 2100€
+  - 3 nutis = 1380€
+  - 4 nuits = 1700€
+  - 5 nuits = 1900€
+  - 6 nuits = 1180€
+  - 7 nuits = 2350€
 
 Draps : Inclus
 Ménage : + 160€
