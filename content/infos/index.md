@@ -15,7 +15,7 @@ Les tarifs ci-dessous sont valables toute l'année :
   - 3 nutis = 1380€
   - 4 nuits = 1700€
   - 5 nuits = 1900€
-  - 6 nuits = 1180€
+  - 6 nuits = 2180€
   - 7 nuits = 2350€
 
 Draps : Inclus
