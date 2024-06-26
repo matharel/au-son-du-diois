@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+// 1. Configuration and helpers
+@import
+  'abstracts/variables',
+  'abstracts/functions',
+  'abstracts/mixins';
+
+// 2. Vendors
+@import
+  'vendors/normalize',
+  'vendors/lazyimg',
+  'vendors/fork-awesome/fork-awesome';
+
+// 3. Base stuff
+@import
+  'base/base',
+  'base/fonts',
+  'base/typography',
+  'base/helpers';
+
+// 4. Layout-related sections
+@import
+  'layout/menus',
+  'layout/horizontal_menu',
+  'layout/breadcrumbs',
+  'layout/header',
+  'layout/footer';
+
+// 5. Components
+@import
+  'components/admonitions',
+  'components/button',
+  'components/images',
+  'components/table',
+  'components/sections',
+  'components/code';
+
+// 6. Page-specific styles
+@import
+  'pages/home';
+
+// 7. Themes
+@import
+//'themes/default';
+//'themes/vfub';
+  'themes/ausondudiois';
+//'themes/duo';
