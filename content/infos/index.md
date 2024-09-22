@@ -21,6 +21,8 @@ Les tarifs ci-dessous sont valables toute l'année :
 Draps : Inclus
 Ménage : + 160€
 
+Il faut rajouter la taxe de séjour qui est reversée à la commune. Elle s'élève à 1 euro par adulte et par nuité. 
+
 ## Contacts
 
 > {{< fa phone >}} +33 781112176
@@ -47,3 +49,4 @@ Ménage : + 160€
    - Adresse complète :
    - Nombre de nuits convenues :
    - Jour d'arrivée convenu :
+   - Nombres de nuitées adultes totales (pour le calcul de la taxe de séjour - les moins de 18 ans en sont exonérés) :
