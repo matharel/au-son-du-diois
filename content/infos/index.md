@@ -12,7 +12,7 @@ Reservation minimale Juillet et Août : 7 nuits
 Les tarifs ci-dessous sont valables toute l'année :
 
   - 2 nuits = 1000€
-  - 3 nutis = 1380€
+  - 3 nuits = 1380€
   - 4 nuits = 1700€
   - 5 nuits = 1900€
   - 6 nuits = 2180€
@@ -20,8 +20,8 @@ Les tarifs ci-dessous sont valables toute l'année :
 
 Draps : Inclus
 Ménage : + 160€
-
-Il faut rajouter la taxe de séjour qui est reversée à la commune. Elle s'élève à 1 euro par adulte et par nuité. 
+Taxe de séjour: +2,20 euros par adulte et par nuitée.
+La taxe de séjour est collectée puis reversée à la commune.          
 
 ## Contacts
 
