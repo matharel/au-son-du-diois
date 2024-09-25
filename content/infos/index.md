@@ -46,7 +46,8 @@ La taxe de séjour est collectée puis reversée à la commune.
    - Date de naissance :
    - Lieu de naissance :
    - Nationalité :
-   - Adresse complète :
+   - Adresse :
+   - code postal et ville :
    - Nombre de nuits convenues :
    - Jour d'arrivée convenu :
    - Nombres de nuitées adultes totales (pour le calcul de la taxe de séjour - les moins de 18 ans en sont exonérés) :
