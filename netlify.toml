@@ -1,35 +1,19 @@
+[build.environment]
+HUGO_VERSION = "0.134.2"
+TZ = "Europe/Paris"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
 [build]
 publish = "public"
-command = "hugo --cleanDestinationDir --gc  --templateMetrics --templateMetricsHints --printMemoryUsage"
+command = """\
+  curl -LJO https://github.com/sass/dart-sass/releases/download/1.79.2/dart-sass-1.79.2-linux-x64.tar.gz && \
+  tar -xf dart-sass-1.79.2-linux-x64.tar.gz && \
+  rm dart-sass-1.79.2-linux-x64.tar.gz && \
+  export PATH=$(pwd)/dart-sass:$PATH && \
+  hugo --gc --minify \
+  """
 
-[context.production.environment]
-HUGO_VERSION = "0.123.8"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
-[context.split1]
-command = "hugo --gc --minify --enableGitInfo"
-
-[context.split1.environment]
-HUGO_VERSION = "0.123.8"
-HUGO_ENV = "production"
-
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.123.8"
-
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.123.8"
-
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
+[build.cache]
+  # Ajouter le chemin du répertoire où vous stockez vos images converties
+  paths = ["resources/_gen/images", "public/images", "public/**"]
