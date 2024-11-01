@@ -2,7 +2,7 @@
 HUGO_VERSION = "0.134.2"
 TZ = "Europe/Paris"
 HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "false"
+HUGO_ENABLEGITINFO = "true"
 
 [build]
 publish = "public"
@@ -16,4 +16,4 @@ command = """\
 
 [build.cache]
   # Ajouter le chemin du répertoire où vous stockez vos images converties
-  paths = ["resources/_gen/images", "public/images", "public/**"]
+  paths = ["resources/_gen/images", "public/**"]
