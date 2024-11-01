@@ -2,7 +2,7 @@
 HUGO_VERSION = "0.134.2"
 TZ = "Europe/Paris"
 HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+HUGO_ENABLEGITINFO = false
 
 [build]
 publish = "public"
