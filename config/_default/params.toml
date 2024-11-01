@@ -1,21 +1,14 @@
+
+# theme = "seb-doc"
 ## menu du thème
 menu = true
 edit = false
+TOC = true
+readingTime = false
+pageInfos = false
 
 # brand = "L'écume"
 brand = "Au Son du Diois"
-breadcrumbDepth = 0
-breadcrumb = 0 # 2
+breadcrumb = 0
+breadcrumbDepth = 0 # Plus le nombre est grand, plus il pop le début du breadcrumb
 gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
-
-  [params.lazyimg]
-  resizer = "auto"
-  renderer = "lqip-webp"
-  lqipSize = "120x Gaussian"
-  maxSize = "1920x"
-  resizeOptions = "Lanczos q95"
-  class = "my-img-class"
-  alt = "My logo"
-  noscript = true
-  errorHandler = "warning-remote"
-
