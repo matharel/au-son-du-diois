@@ -10,6 +10,8 @@ $fa-font-path: "../fonts";
 
 $google-font: "Fuggles";
 
+@import url('https://fonts.googleapis.com/css2?family=#{$google-font}&display=swap');
+
 /// Regular font family
 /// @type List
 $text-font-stack: 'Open Sans', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif !default;
@@ -21,12 +23,11 @@ $code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
 
 /// Copy text color
 /// @type Color
-$heading-color: hsl(180, 0, 20) !default;
-$text-color: hsl(180, 0, 30) !default;
+$text-color: hsl(180, 0, 20) !default;
 
 /// Main brand color
 /// @type Color
-$brand-color: hsl(229, 0, 85) !default;
+$brand-color: hsl(229, 0, 80) !default;
 
 $link-color: hsl(220, 45, 40);
 
