@@ -24,5 +24,6 @@ En haut de se chemin il y a une intersection. Ne surtout pas tourner à droite v
 
 ## Des places supplémentaires
 
-Il est possible de se garer sur le côté gauche de la route, sans mettre de roue sur le bitume.
+En dépassant l'intersection et en continuant 50 mètres sur la route, il est possible de se garer sur le côté gauche de la route, sans mettre de roue sur le bitume.
+
 ![Places au bord de la route](places-bord-de-route.jpg)
