@@ -43,6 +43,8 @@ La taxe de séjour est collectée puis reversée à la commune.
   Vous êtes déjà en contact avec nous et vous souhaitez confirmer votre réservation ? Envoyez nous par e-mail les informations suivantes pour l'établissement du contrat:
    - Nom :
    - Prénom :
+   - email :
+   - Téléphone :
    - Date de naissance :
    - Lieu de naissance :
    - Nationalité :
