@@ -43,13 +43,11 @@ La taxe de séjour est collectée puis reversée à la commune.
   Vous êtes déjà en contact avec nous et vous souhaitez confirmer votre réservation ? Envoyez nous par e-mail les informations suivantes pour l'établissement du contrat:
    - Nom :
    - Prénom :
+   - Jour d'arrivée convenu :
+   - Nombre de nuits convenues :
    - email :
    - Téléphone :
-   - Date de naissance :
-   - Lieu de naissance :
-   - Nationalité :
    - Adresse :
-   - code postal et ville :
-   - Nombre de nuits convenues :
-   - Jour d'arrivée convenu :
-   - Nombres de nuitées adultes totales (pour le calcul de la taxe de séjour - les moins de 18 ans en sont exonérés) :
+   - Ville :
+   - Code Postal :
+   - Nombre d'adultes par nuit : (pour le calcul de la taxe de séjour - les moins de 18 ans en sont exonérés) :
