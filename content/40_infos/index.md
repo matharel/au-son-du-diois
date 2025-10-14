@@ -14,15 +14,14 @@ weight = 40
 
 ### Grille des tarifs
 
-| Durée   | Basse saison | Moyenne/nuit | Haute saison (+40 %) | Moyenne/nuit |
+| Durée   | Basse saison | Moyenne/nuit | Haute saison (+35 %) | Moyenne/nuit |
 | ------- | ------------ | ------------ | -------------------- | ------------ |
-| 2 nuits | **1000 €**   | 500 €/nuit   | **1400 €**           | 700 €/nuit   |
-| 3 nuits | **1380 €**   | 460 €/nuit   | **1930 €**           | 643 €/nuit   |
-| 4 nuits | **1700 €**   | 425 €/nuit   | **2380 €**           | 595 €/nuit   |
-| 5 nuits | **1900 €**   | 380 €/nuit   | **2660 €**           | 532 €/nuit   |
-| 6 nuits | **2180 €**   | 363 €/nuit   | **3050 €**           | 508 €/nuit   |
-| 7 nuits | **2350 €**   | 336 €/nuit   | **3290 €**           | 470 €/nuit   |
-
+| 2 nuits | **1000 €**   | 500 €/nuit   | **1350 €**           | 675 €/nuit   |
+| 3 nuits | **1380 €**   | 460 €/nuit   | **1863 €**           | 621 €/nuit   |
+| 4 nuits | **1700 €**   | 425 €/nuit   | **2295 €**           | 574 €/nuit   |
+| 5 nuits | **1900 €**   | 380 €/nuit   | **2565 €**           | 513 €/nuit   |
+| 6 nuits | **2180 €**   | 363 €/nuit   | **2943 €**           | 491 €/nuit   |
+| 7 nuits | **2350 €**   | 336 €/nuit   | **3173 €**           | 453 €/nuit   |
 
 ### Suppléments
 
@@ -33,11 +32,10 @@ weight = 40
 
 ### Périodes
 
-- **Haute saison (+40 %)**
-
+- **Haute saison (+35 %)**
   - Juillet et Août
   - Vacances de Noël et Nouvel An
-  - Les week-end prolongés du mois de mai
+  - week-ends prolongés du mois de mai
 
 - **Basse saison (tarifs de base)**
   - Le reste de l’année
