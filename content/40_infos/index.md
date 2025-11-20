@@ -23,10 +23,9 @@ weight = 40
 | 6 nuits | **2180 €**   | 363 €/nuit   | **2943 €**           | 491 €/nuit   |
 | 7 nuits | **2350 €**   | 336 €/nuit   | **3173 €**           | 453 €/nuit   |
 
-### Suppléments
-
 - Draps : **inclus**
-- Ménage : **+160 €** (obligatoire)
+- Le ménage est à faire par vos soins, ou bien nous pouvons vous mettre en
+  relation avec des prestataires (tarifs constatés entre 160€ et 200€)
 - Taxe de séjour : **+2,20 € par adulte et par nuitée**  
   (collectée et reversée à la commune)
 
