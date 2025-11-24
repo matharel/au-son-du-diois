@@ -61,7 +61,7 @@ enableGitInfo = true
 # date = [":git" ,"date", "publishDate", "lastmod"]
 
 [[module.imports]]
-  path = "/home/sebastien/repos/themes/seb-doc"
+  path = "github.com/matharel/seb-doc"
 
 [security.exec]
 allow = [
