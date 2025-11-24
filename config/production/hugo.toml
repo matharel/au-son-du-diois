@@ -1,4 +1,6 @@
+baseURL = "https://ausondudiois.pages.dev"
 buildDrafts = false
+cleanDestinationDir = true
 
 [[module.imports]]
 path = "github.com/matharel/seb-doc"
