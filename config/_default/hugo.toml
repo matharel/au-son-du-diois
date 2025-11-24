@@ -33,7 +33,7 @@ enableGitInfo = true
         unsafe = true
         # hardWraps = true
     [markup.goldmark.renderHooks.link]
-        enableDefault = true
+        useEmbedded = "fallback"
 
 
 
