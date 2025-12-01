@@ -1,14 +1,16 @@
+# ---------------------------------------------------------
+#  GLOBAL THEME PARAMETERS
+# ---------------------------------------------------------
 
-# theme = "seb-doc"
-## menu du thème
-menu = true
-edit = false
-TOC = true
+menu = true              # Theme-specific flag (fine here)
+edit = false             # Disable "edit this page" links
+TOC = true               # Redundant with markup.tableOfContents, but kept
 readingTime = false
 pageInfos = false
 
-# brand = "L'écume"
 brand = "Au Son du Diois"
 breadcrumb = 0
 breadcrumbDepth = 0 # Plus le nombre est grand, plus il pop le début du breadcrumb
 gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
+#   toc = true         # Generic flag used by many themes
+#   enableSearch = false

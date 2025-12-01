@@ -2,6 +2,7 @@
 title = "Contact et Agenda"
 linkTitle = "Contact et Agenda"
 slug = "contact"
+TOC = true
 weight = 40
 +++
 

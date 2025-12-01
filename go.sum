@@ -1,4 +1,6 @@
-github.com/matharel/seb-doc v0.0.0-20251124135518-c0f6cbfb3933 h1:3V/qqYQxmZNaCezhWc5CSBjkjtWo7bBDu3yYmy+Si0o=
-github.com/matharel/seb-doc v0.0.0-20251124135518-c0f6cbfb3933/go.mod h1:6LdRchOWtlAPbIe1ZFZ+QD7eT+8E8wHI57bvstd/Wi0=
-github.com/matharel/seb-doc v0.0.0-20251124143413-a3af4053fa2c h1:sNmvOpEIiKzIXzTyExyERc5nKdwRBfIFjEawFwd/878=
-github.com/matharel/seb-doc v0.0.0-20251124143413-a3af4053fa2c/go.mod h1:6LdRchOWtlAPbIe1ZFZ+QD7eT+8E8wHI57bvstd/Wi0=
+github.com/matharel/seb-doc v0.0.0-20251124152435-8f81b66936e8 h1:nQLJAZQzx2sUdemub/aTSlgfArlLVFI/Xt+EBovNStg=
+github.com/matharel/seb-doc v0.0.0-20251124152435-8f81b66936e8/go.mod h1:6LdRchOWtlAPbIe1ZFZ+QD7eT+8E8wHI57bvstd/Wi0=
+github.com/matharel/seb-doc v0.0.0-20251124161104-05c812782de0 h1:jlcXuhLl6E07XngqGKRXA7yV1Ggz8/pdxvrTZH8k7HU=
+github.com/matharel/seb-doc v0.0.0-20251124161104-05c812782de0/go.mod h1:6LdRchOWtlAPbIe1ZFZ+QD7eT+8E8wHI57bvstd/Wi0=
+github.com/matharel/seb-doc v0.0.0-20251124161706-0f7868d0320c h1:IyH/Bp+gYGZZx32dntfPqgDIy/E+c4DcvO2pa7PLUfs=
+github.com/matharel/seb-doc v0.0.0-20251124161706-0f7868d0320c/go.mod h1:6LdRchOWtlAPbIe1ZFZ+QD7eT+8E8wHI57bvstd/Wi0=

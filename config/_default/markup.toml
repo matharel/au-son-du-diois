@@ -1,0 +1,77 @@
+# ---------------------------------------------------------
+#  MARKUP CONFIG
+# ---------------------------------------------------------
+
+[goldmark]
+  # ----------------------------
+  # EXTENSIONS
+  # ----------------------------
+  [goldmark.extensions]
+    # https://github.com/gohugoio/hugo-goldmark-extensions
+    strikethrough = false
+    [goldmark.extensions.extras.delete]
+      enable = true
+    [goldmark.extensions.extras.insert]
+      enable = true
+    [goldmark.extensions.extras.mark]
+      enable = true
+    [goldmark.extensions.extras.subscript]
+      enable = true
+    [goldmark.extensions.extras.superscript]
+      enable = true
+
+  # ----------------------------
+  # PARSER
+  # ----------------------------
+  [goldmark.parser]
+    wrapStandAloneImageWithinParagraph = false   # Good for better <figure> support
+
+    [goldmark.parser.attribute]
+      block = true     # Allow attributes on block-level elements
+      title = true     # Allow title="" in attributes
+
+  # ----------------------------
+  # RENDERER
+  # ----------------------------
+  [goldmark.renderer]
+    unsafe = true      # Allows raw HTML. Useful for custom shortcodes & advanced layouts.
+    hardWraps = false  # Normal Markdown behavior
+
+  # ----------------------------
+  # RENDER HOOKS
+  # ----------------------------
+  # Par défaut c'est auto, je pense que je peux me passer de ça:
+# [goldmark.renderHooks.link]
+#     useEmbedded = "fallback" 
+
+# ----------------------------
+# TABLE OF CONTENTS
+# ----------------------------
+[tableOfContents]
+  startLevel = 2
+  ordered = false # Si je veux une numérotation des titres
+  endLevel = 2
+
+# ----------------------------
+# SYNTAX HIGHLIGHTING
+# ----------------------------
+[highlight]
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false    # More predictable but requires explicit languages
+  hl_Lines = ''          # Empty → no special highlighted lines
+  hl_inline = false
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = false
+  noClasses = true       # → Inline styles. Heavier HTML but self-contained.
+                         # Recommended for emails or dark themes. Otherwise classes are better.
+  noHl = false
+  style = 'vulcan'
+  tabWidth = 4
+
+  # nice one dark:
+  # catppuccin-{ frappe, macchiato, mocha}, nord, onedark, paraiso-dark, tokyonight-{ night, moon}, vulcan
+  # mes deux préférés sont 'tokyonight-moon' et 'vulcan'
+  # style = 'tokyonight-moon'

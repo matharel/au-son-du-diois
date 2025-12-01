@@ -1,0 +1,16 @@
+# ---------------------------------------------------------
+#  SECURITY
+#  Strict by default. Only allow what Hugo needs.
+# ---------------------------------------------------------
+
+[exec]
+  allow = ['^go$', '^git$', '^dart-sass$', '^sass$', '^postcss$']
+  # Disallow everything else to prevent arbitrary code execution
+  osEnv = ['(?i)^(PATH|HOME|TMP|TEMP)$']
+
+[funcs]
+  getenv = ['^HUGO_']  # Restrict getenv to only your explicit Hugo env vars
+
+[http]
+  methods = ['(?i)GET|POST']
+  urls = ['.*']         # Allow fetching remote resources (if your theme does)

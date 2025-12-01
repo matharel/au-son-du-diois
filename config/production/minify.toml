@@ -1,0 +1,21 @@
+# ---------------------------------------------------------
+#  MINIFIER
+#  Explicit configuration to guarantee consistency across
+#  environments (defaults can change between Hugo versions).
+# ---------------------------------------------------------
+
+minifyOutput = true     # Required for Cloudflare/Netlify deployment
+
+[tdewolff.html]
+  keepDefaultAttrVals = false
+  keepEndTags = false
+  keepWhitespace = false
+
+[tdewolff.css]
+  keepWhitespace = false
+
+[tdewolff.js]
+  keepVarNames = false
+
+[tdewolff.xml]
+  keepWhitespace = false
