@@ -50,7 +50,7 @@
 [tableOfContents]
   startLevel = 2
   ordered = false # Si je veux une numérotation des titres
-  endLevel = 2
+  endLevel = 5
 
 # ----------------------------
 # SYNTAX HIGHLIGHTING

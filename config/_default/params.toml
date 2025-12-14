@@ -14,3 +14,19 @@ breadcrumbDepth = 0 # Plus le nombre est grand, plus il pop le début du breadcr
 gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
 #   toc = true         # Generic flag used by many themes
 #   enableSearch = false
+
+#--------------------------------------------------
+# CONTENT TREE
+#--------------------------------------------------
+
+[contentTree]
+  [contentTree.default]
+	debug = false
+	sortBy = "Weight"    # "Path" "Weight" "Date" "LinkTitle" "Title"
+	order = "asc"           # "asc" "desc"
+	depth = 2				# 0 → no limitations
+# Possible to override parameters for menu and list
+  [contentTree.menu]
+  [contentTree.list]
+# or for any new situation, just call the partial with the new variant name :
+# {{ partial "content-tree.html" (dict "variant" "myNewVariant" "currentPage" .) }}
