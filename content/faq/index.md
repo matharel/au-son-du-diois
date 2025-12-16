@@ -12,16 +12,16 @@ weight = 70
     Toutes les informations utiles pour préparer votre séjour
   </h2>
   <p style="max-width:44rem;margin:0;">
-    Réponses claires et pratiques aux questions les plus fréquentes (arrivée, draps, sanitaires, sécurité, règles du lieu). Pour toute question spécifique : <a href="/contact-disponibilites">contactez-nous</a>.
+    Réponses claires et pratiques aux questions les plus fréquentes
+        (arrivée, draps, sanitaires, sécurité, règles du lieu).
+        Pour toute question spécifique :
+  <div style="margin-top:0.8rem;">
+    <a href='{{< relref "contact" >}}' style="display:inline-block;padding:0.6rem 1rem;background:#2a5fd7;color:#fff;border-radius:0.4rem;text-decoration:none;font-weight:600;">
+            Contactez-nous
+    </a>
+  </div>
   </p>
 </section>
-
-## Navigation rapide
-
-- [Réservation & tarifs](/tarifs-reservations-gite-de-groupe-die-drome)
-- [Le gîte — détails & plan](/gite-de-groupe-die-drome)
-- [Domaine & extérieurs](/domaine-exterieur-gite-de-groupe-die)
-- [Vie locale & activités](/vie-locale-activites-die-diois-vercors)
 
 ## Questions fréquentes
 

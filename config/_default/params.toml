@@ -26,7 +26,12 @@ gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
 	order = "asc"           # "asc" "desc"
 	depth = 2				# 0 → no limitations
 # Possible to override parameters for menu and list
-  [contentTree.menu]
+  [contentTree.footer]
+	debug = false
+	sortBy = "Weight"    # "Path" "Weight" "Date" "LinkTitle" "Title"
+	order = "asc"           # "asc" "desc"
+	depth = 1				# 0 → no limitations
+	includeRoot = true
   [contentTree.list]
 # or for any new situation, just call the partial with the new variant name :
 # {{ partial "content-tree.html" (dict "variant" "myNewVariant" "currentPage" .) }}

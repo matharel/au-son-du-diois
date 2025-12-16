@@ -10,11 +10,14 @@ TOC = true
 
 ## Construction écologique
 
-Au son du Diois est un gîte ~~d’exception~~ alliant authenticité architecturale
-et confort moderne. Construit en matériaux locaux – terre, bois, paille – il
-offre un climat intérieur naturellement doux en toute saison.
+Le bâtiment allie authenticité architecturale et confort moderne. Construit en
+matériaux locaux – terre, bois, paille – il offre un climat intérieur
+naturellement doux en toute saison.
 
-_variante: Le bâtiment allie authenticité architecturale et confort moderne._
+Au-delà des matériaux, ce lieu est aussi le fruit d’un long chantier mêlant
+savoir-faire professionnel, transmission et engagement collectif.
+
+→ **[Lire l’histoire de l’autoconstruction et des chantiers](autoconstruction-chantier)**
 
 ```
 - fichier: gite-au-son-du-diois-pise-ecoconstruction.jpg
@@ -28,6 +31,10 @@ Le cœur du bâtiment est une vaste salle de vie majestueuse et chaleureuse
 baignée de lumière, magnifiée par un long mur en pisé de onze mètres, culminant
 à quatre mètres et prolongé de briques en terre crue, véritable colonne
 vertébrale du bâtiment, posé sur un parquet en chêne massif.
+
+→ Approfondir la **[construction en pisé]({{< relref "construction-pise" >}})**
+et les **[briques de terre crue]({{< relref "briques-terre-crue" >}})** :
+principes, fabrication et choix techniques.
 
 ```
 - fichier: gite-salle-centrale-volume-lumiere.jpg
@@ -65,6 +72,10 @@ La cuisine collective, entièrement équipée, s’ouvre sur une terrasse en boi
 80 m² offrant une vue imprenable sur le Vercors et donnant accès à un terrain
 qui se prolonge dans la forêt.
 
+👉 **[Découvrir la cuisine collective]({{< relref "cuisine-collective" >}})** :
+équipements professionnels, grand plan de travail central et espace convivial
+pensé pour cuisiner et partager.
+
 ```
 fichier: cuisine-collective-gite.jpg
 alt: cuisine collective équipée - gîte 15 personnes Au son du Diois
@@ -72,6 +83,34 @@ fichier: terrasse-bois-vue-vercors.jpg
 alt: terrasse en bois avec vue sur le Vercors - gîte Die
 caption: Cuisine pratique et terrasse 80 m² face au Vercors.
 ```
+
+## Chambres & couchages
+
+Le gîte dispose de **5 chambres**, pour une **capacité totale de 15
+personnes**.  
+Elles sont conçues pour être simples, confortables et propices au repos, dans la
+continuité de l’esprit du lieu : calme, matériaux naturels, sobriété.
+
+Les couchages sont **modulables** (lits simples ou lits doubles selon les
+chambres), ce qui permet d’accueillir aussi bien :
+
+- des groupes d’amis,
+- des familles,
+- des stages, résidences ou séminaires.
+
+### Fiche rapide
+
+| Chambre          | Détails                        |
+| ---------------- | ------------------------------ |
+| Chambre Terrasse | 1 lit double                   |
+| Chambre Nid      | 1 lit double et 1 lit simple   |
+| Chambre Forêt    | 1 lit double et 1 lit simple   |
+| Chambre Alcôve   | 1 lit double et 4 lits simples |
+| Chambre Hublot   | 2 lits simples                 |
+{ .header-row }
+
+**Pour le détail chambre par chambre** (photos, surfaces, types de lits),  
+voir la page dédiée : **[Découvrir les chambres]({{< relref "chambres" >}})**
 
 ## Extérieur, terrain & rivière
 
@@ -94,33 +133,17 @@ pour un séjour encore plus immersif.
 
 ## Situation & accès
 
-À 2 km du centre de Die, facilement accessible en voiture ou par une agréable
-promenade qui traverse champs et chemin praticable, le gîte offre un équilibre
-rare entre tranquillité et accessibilité.
+Situé à seulement 2 km du centre de Die, le gîte bénéficie d’un équilibre rare
+entre calme, nature et accessibilité, avec un accès simple en voiture comme à
+pied.
+
+👉 **[Voir la situation et l’accès]({{< relref "situation-acces" >}})** :
+localisation précise, itinéraires, stationnement et accès sans difficulté.
 
 ```
 - fichier: chemin-promenade-die.jpg
 - alt: promenade entre champs vers Die depuis le gîte
 - caption: Promenade champêtre jusqu’au centre de Die (2 km).
-```
-
-## Chambres & couchages
-
-Le gîte accueille 15 personnes. [Lien vers /chambres] pour la répartition
-détaillée des couchages (photos et plan du rez-de-chaussée).
-
-```
-4 — Où décrire les chambres ? (concision + SEO)
-
-- Sur la page /le-gite : mettre un résumé des chambres (nombre, types de lits,
-  capacité totale = 15, note sur les combles chauds). Exemple : 3 lignes + mini
-  tableau (fiche technique).
-- Avoir une page dédiée /chambres ou un bloc déroulant (accordion) sur /le-gite
-  pour le détail chambre par chambre (photos, dimensions, lits).
-- Pourquoi : évite page /le-gite trop longue, améliore UX mobile, permet
-  deep-linking SEO (ex : site/chambres#chambre-1).
-
-Donc oui : résumé ici, détails dans une sous-page / modal.
 ```
 
 ## Informations pratiques
@@ -133,7 +156,6 @@ Donc oui : résumé ici, détails dans une sous-page / modal.
 - Nous ne proposons pas de prestations para-hôtelières (petits déjeuners,
   ménage, restauration…). Nous pouvons toutefois vous orienter facilement vers
   des prestataires locaux de qualité.
-
 
 <script type="application/ld+json">
 {

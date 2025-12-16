@@ -1,11 +1,18 @@
 ## Next
 
-- vérifier la construction des liens internes au site:
-  - depuis le footer
-  - vers les pages hors-menus comme chambre
-- qu'est-ce que `rel=canonical`
+### Contenu
 
-Il va aussi falloir commencer à réfléchir au look du site:
+- voir comment sont construites les sections:
+  - si je garde les liens de sous-pages, les mettre en bas de pages
+- vérifier la construction des liens internes au site:
+  - ~~depuis le footer~~
+  - vers les pages hors-menus comme chambre
+  - les CTA comme `vérifier les dispos`
+- Mettre toutes les images disponibles
+- Relever les images à faire et les commenter
+- Relire tous les textes
+
+### Design
 
 - garde-ton le toc ?
 - si oui, je suis embetté avec ces titres à rallonges, il faudrait un système de
@@ -13,12 +20,29 @@ Il va aussi falloir commencer à réfléchir au look du site:
 - Quel menu visuel en haut
 - quel logo
 - est-ce que je garde la structure actuelle du site
+- sortir tout le css du content (footer et boutons)
+- mettre une galerie/carrousel
 
 ### Pages à créer
 
+Pièces du lieu:
+
+- sanitaires
 - salle centrale
 - filet suspendu
-- galerie technique / chantier
+
+Attention je ne parle pas des sanitaires dans la grande page sur le gîte. Je me
+demande si pour les 3 pages précédentes, des galeries photos dans la page du
+gîte suffiraient.
+
+Une rubrique vie du lieu, avec :
+
+- historique de la construction
+- le projet de studio (à bien voir si je ne me mets pas en danger législativement)
+- historique du projet (avec l'envie de studio)
+- des pages techniques sur le lieu:
+  - les arbres du terrain
+  - les plantes d'intérieur
 
 ## JSON-LD
 

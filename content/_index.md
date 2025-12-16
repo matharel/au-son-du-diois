@@ -1,5 +1,6 @@
 +++
 title = "Gîte 15 pers. Die (Vercors) — grande salle, nature & écoconstruction"
+linkTitle = "Accueil"
 h1 = "Grande demeure écoconstruite avec vue sur le Vercors"
 MetaDescription = "Gîte 15 pers. près de Die — grande salle, cuisine collective et terrain naturel en lisière de forêt. Vérifiez les disponibilités."
 TOC = true
@@ -8,21 +9,18 @@ notes = """
 """
 +++
 
-
-<!-- HERO **FAIRE UN SHORTCODE ?**
-<section id="hero">
-  <h2>Gîte 15 pers. • Éco-construit • Vue sur le Vercors</h2>
-  <p>Grand espace de vie, cuisine collective et vaste domaine naturel — idéal pour stages, réunions et séjours en famille.</p>
-  <a class="btn-cta" href="/tarifs-reservation">Vérifier les disponibilités</a>
+<section id="hero" style="margin: 2rem 0;">
+  <h2 style="font-size:1.4rem;font-weight:600;margin-bottom:0.5rem;">
+  Gîte 15 pers. • Éco-construit • Vue sur le Vercors</h2>
+  <p style="max-width:32rem;">
+  Grand espace de vie, cuisine collective et vaste domaine naturel — idéal pour stages, réunions et séjours en famille.</p>
+  <div style="margin-top:1rem;">
+    <a href='{{< relref "tarifs/#disponibilit%C3%A9s" >}}'
+       style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
+       Voir disponibilités
+    </a>
+  </div>
 </section>
--->
-
-> **Gîte de groupe — 15 personnes**
->
-> Grand espace de vie, cuisine collective et vaste domaine naturel — idéal
-> séjours en famille, groupes d'amis et stages.
->
-> <button>Vérifier les disponibilités</button>
 
 - **Salle centrale impressionnante** : grand volume, parquet en chêne et long
   mur en pisé.
@@ -112,8 +110,13 @@ date.)_
 
 ## Réserver & contacter
 
-[**Vérifier les disponibilités**](/tarifs-reservation) •
-[**Contact**](/contact-disponibilites)  
+  <div style="margin-top:1rem;">
+    <a href='{{< relref "tarifs/#r%C3%A9server" >}}'
+       style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
+        Réserver
+    </a>
+  </div>
+
 Pour demandes spéciales (traiteur, équipement supplémentaire), contactez-nous —
 nous orientons facilement vers des prestataires locaux.
 

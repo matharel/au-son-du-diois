@@ -64,7 +64,7 @@ TOC = true
 - Arrivée autonome par boîte à clés.
 - Pas de prestations para-hôtelières (petit-déjeuner, ménage, restauration).
 
-## Disponibilités
+## Disponibilités {#disponibilite}
 
 <div id="calendrier" style="margin: 2rem 0;">
   <!-- Exemple : intégrer un widget tiers ou ton futur calendrier -->
@@ -75,17 +75,145 @@ TOC = true
   </div>
 </div>
 
-## Réserver
 
-<p style="max-width:32rem;">
-La réservation se fait directement auprès de nous, sans intermédiaire.  
-Indique simplement vos dates, le nombre de personnes et votre question éventuelle.
-</p>
+## Demande de réservation
+
+<form
+  action="https://formspree.io/f/YOUR_FORM_ID" 
+  method="post"
+  style="max-width:42rem;"
+>
+  <h3>Demande de réservation</h3>
+
+  <p>
+    Cette demande ne constitue pas une réservation ferme.
+    La réservation sera confirmée uniquement après validation de la disponibilité
+    et signature du contrat de location.
+  </p>
+
+  <label>
+    Prénom et nom<br />
+    <input name="full_name" type="text" required />
+  </label><br /><br />
+
+  <label>
+    Email<br />
+    <input name="email" type="email" required />
+  </label><br /><br />
+
+  <label>
+    Téléphone<br />
+    <input name="phone" type="tel" required />
+  </label><br /><br />
+
+  <label>
+    Adresse<br />
+    <input name="address" type="text" required />
+  </label><br /><br />
+
+  <label>
+    Ville<br />
+    <input name="city" type="text" required />
+  </label><br /><br />
+
+  <label>
+    Code postal<br />
+    <input name="postal_code" type="text" required pattern="\d{4,10}" title="Code postal valide" />
+  </label><br /><br />
+
+  <label>
+    Jour d’arrivée souhaité<br />
+    <input name="arrival_date" type="date" required />
+  </label><br /><br />
+
+  <label>
+    Nombre de nuits<br />
+    <input name="nights" type="number" min="1" max="30" required />
+  </label><br /><br />
+
+  <label>
+    Nombre d’adultes (par nuit)<br />
+    <input name="adults" type="number" min="1" max="15" required />
+  </label>
+  <p style="font-size:0.9rem;">
+    Les personnes de moins de 18 ans sont exonérées de la taxe de séjour.
+  </p><br />
+
+  <label>
+    Message / précision éventuelle<br />
+    <textarea name="message" rows="4"></textarea>
+  </label><br /><br />
+
+  <!-- Optional: Formspree fields -->
+  <input type="hidden" name="_subject" value="Demande de réservation – Gîte" />
+  <input type="hidden" name="_next" value="https://YOURDOMAIN.com/merci.html" />
+  <!-- Honeypots for bots -->
+  <input type="text" name="_gotcha" style="display:none" />
+
+  <!-- GDPR notice -->
+  <p style="font-size:0.85rem;">
+    En soumettant ce formulaire, vous acceptez que vos données soient utilisées uniquement pour le traitement de votre demande.
+  </p>
+<button
+    type="submit"
+    style="margin-top:0.5rem;padding:0.6rem 1rem;background:#2a5fd7;color:#fff;border-radius:4px;border:0;"
+  >
+    Envoyer la demande
+  </button>
+</form>
+
+## Demande de réservation
+
+La réservation se fait directement auprès de nous, sans intermédiaire.
+
+Vous pouvez :
+- soit utiliser le formulaire ci-dessous (recommandé)
+- soit nous écrire directement à
+  [diwawatt@gmail.com](mailto:diwawatt@gmail.com?subject=Réservation gîte – Demande d'information)
+
+**Après confirmation de la disponibilité** aux dates demandées, nous vous enverrons
+un contrat de location par retour de mail.
+
+Merci d’être sûr de vous avant de nous faire établir un contrat.
+N’hésitez pas à nous appeler pour toute question.
+
+---
+
+<!-- FORM START -->
+
+<form>
+  <!-- (form HTML from above goes here unchanged) -->
+</form>
+
+<!-- FORM END -->
+
+## Demande de réservation
+
+La réservation se fait directement auprès de nous, sans intermédiaire.
+Envoyez-nous simplement les informations suivantes à
+<a href="mailto:diwawatt@gmail.com?subject=Réservation gîte – Demande d'information">diwawatt@gmail.com</a>:
+
+- Prénom
+- Jour d’arrivée convenu
+- Nombre de nuits convenues
+- email
+- Téléphone
+- Adresse
+- Ville
+- Code Postal
+- Nombre d’adultes par nuit (pour le calcul de la taxe de séjour - les moins de
+  18 ans en sont exonérés)
+
+**Après confirmation de la disponibilté** aux dates demandées, nous vous enverrons
+un contrat de location par retour de mail.
+
+Merci d'être sûr de vous avant de nous faire établir un contrat. N'hésitez pas à
+nous appeler pour toutes questions :
 
 <div style="margin-top:1rem;">
-  <a href="mailto:diwawatt@gmail.com?subject=Réservation gîte – Demande d'information"
+  <a href="tel:0033781112176"
      style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
-     Demander une réservation
+        07 81 11 21 76
   </a>
 </div>
 
@@ -113,4 +241,19 @@ Indique simplement vos dates, le nombre de personnes et votre question éventuel
   "availability": "https://schema.org/InStock",
   "validFrom": "2025-01-01"
 }
+</script>
+<p>
+  Pour nous contacter par email, cliquez ici : 
+  <span id="email-link"></span>
+</p>
+
+<script type="text/javascript">
+  // Build the email link dynamically
+  var user = "diwawatt";
+  var domain = "gmail.com";
+  var email = user + "@" + domain;
+  var link = document.createElement("a");
+  link.href = "mailto:" + email;
+  link.textContent = email;
+  document.getElementById("email-link").appendChild(link);
 </script>

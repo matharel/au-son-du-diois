@@ -1,5 +1,6 @@
 +++
 title = "Politique de confidentialité — Au son du Diois"
+linkTitle = "Politique de confidentialité"
 h1 = "Politique de confidentialité — RGPD"
 metaDescription = "Politique de confidentialité et traitement des données personnelles du gîte Au son du Diois (RGPD)."
 +++

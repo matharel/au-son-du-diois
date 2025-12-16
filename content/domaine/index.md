@@ -13,7 +13,7 @@ weight = 30
   </p>
   <div style="margin-top:0.8rem;">
     <a href="/galerie" style="display:inline-block;padding:0.6rem 1rem;background:#2a5fd7;color:#fff;border-radius:0.4rem;text-decoration:none;font-weight:600;margin-right:0.6rem;">Voir la galerie</a>
-    <a href="/tarifs-reservation" style="display:inline-block;padding:0.6rem 1rem;border:1px solid #2a5fd7;color:#2a5fd7;border-radius:0.4rem;text-decoration:none;font-weight:600;">Vérifier disponibilité</a>
+    <a href='{{< relref "tarifs/#disponibilite" >}}' style="display:inline-block;padding:0.6rem 1rem;border:1px solid #2a5fd7;color:#2a5fd7;border-radius:0.4rem;text-decoration:none;font-weight:600;">Vérifier disponibilité</a>
   </div>
 </section>
 

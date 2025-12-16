@@ -1,5 +1,6 @@
 +++
 title = "Mentions légales — Au son du Diois"
+linkTitle = "Mentions légales"
 h1 = "Mentions légales"
 metaDescription = "Mentions légales du site Au son du Diois. Informations sur l’éditeur, l’hébergement, la propriété intellectuelle et les responsabilités."
 +++

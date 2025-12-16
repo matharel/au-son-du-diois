@@ -14,7 +14,7 @@ weight = 40
     Proche de Die, le gîte est un point de départ idéal pour accrobranche, randonnées dans le Vercors, balades œnologiques autour de la Clairette de Die, marchés locaux et baignades en rivière.
   </p>
   <div style="margin-top:0.8rem;">
-    <a href="/domaine-exterieur-gite-de-groupe-die" style="display:inline-block;padding:0.6rem 1rem;background:#2a5fd7;color:#fff;border-radius:0.4rem;text-decoration:none;font-weight:600;">
+    <a href='{{< relref "domaine" >}}' style="display:inline-block;padding:0.6rem 1rem;background:#2a5fd7;color:#fff;border-radius:0.4rem;text-decoration:none;font-weight:600;">
       Voir le domaine
     </a>
   </div>
@@ -34,7 +34,7 @@ proposent des informations saisonnières et des circuits thématiques.
 Base de loisirs voisine proposant parcours aventures, sorties encadrées (canyon,
 via ferrata, escalade) et activités pour tous âges — pratique pour les
 demi-journées en famille ou pour clôturer un stage. Réserver à l'avance est
-recommandé. :contentReference[oaicite:1]{index=1}
+recommandé.
 
 ### Randonnées & balades dans le Diois / Vercors
 
@@ -42,7 +42,9 @@ Le territoire offre de nombreuses boucles et itinéraires au départ de Die et s
 environs : promenades faciles pour familles et sentiers plus engagés pour
 randonneurs confirmés. Nous pouvons fournir des traces GPX et des suggestions
 d'itinéraires adaptés à votre groupe. (Voir fiches randos de l'Office de
-tourisme). :contentReference[oaicite:2]{index=2}
+tourisme).
+
+➡️ Page détaillée : [Randonnées dans le Diois et le Vercors — itinéraires & niveaux]({{< relref "randonnees" >}})
 
 ### VTT & cyclotourisme {#vtt}
 Réseau local de parcours VTT et itinéraires cyclo : des boucles familiales aux parcours XC/All-Mountain. Possibilités de location de VTT électriques à Die et transports pour boomerang.  
@@ -50,7 +52,7 @@ Réseau local de parcours VTT et itinéraires cyclo : des boucles familiales aux
 - **Parcours sportif** : singletracks et descentes locales.  
 - **Itinéraires cyclo** : routes tranquilles pour cyclotourisme (vallée de la Drôme).
 
-➡️ Page détaillée : [VTT & Cyclo — parcours & locations](/vtt-cyclo-diois)
+➡️ Page détaillée : [VTT & Cyclo — parcours & locations]({{< relref "vtt-cyclo" >}})
 
 ### Baignades & sites d'eau
 
@@ -58,7 +60,8 @@ Pour se rafraîchir, la région propose des sites naturels notables — notammen
 **Le Claps** (Luc-en-Diois) et d'autres vasques et coins de baignade dans la
 vallée de la Drôme. Ces lieux sont parfaits pour un pique-nique et une pause
 après randonnée. Vérifier les conditions d'accès selon la saison.
-:contentReference[oaicite:3]{index=3}
+
+➡️ Page détaillée : [Baignades et spots naturels du Diois]({{< relref "baignades-spots-diois" >}})
 
 ## Terroir & dégustations
 
@@ -68,7 +71,8 @@ La Clairette et les vins du Diois sont une spécialité locale : caves à visite
 dégustations et routes des vignes sont disponibles toute l'année (selon saisons
 et disponibilités). Nous recommandons la visite d’une cave locale pour une
 dégustation et l’achat direct au producteur.
-:contentReference[oaicite:4]{index=4}
+
+➡️ Page détaillée : [Vignobles du Diois & Clairette de Die — caves et dégustations]({{< relref "vignoble-clairette" >}})
 
 ### Marchés et produits locaux
 
