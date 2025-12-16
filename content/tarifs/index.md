@@ -168,8 +168,8 @@ La réservation se fait directement auprès de nous, sans intermédiaire.
 
 Vous pouvez :
 - soit utiliser le formulaire ci-dessous (recommandé)
-- soit nous écrire directement à
-  [diwawatt@gmail.com](mailto:diwawatt@gmail.com?subject=Réservation gîte – Demande d'information)
+- soit nous écrire directement à {{< email >}}
+
 
 **Après confirmation de la disponibilité** aux dates demandées, nous vous enverrons
 un contrat de location par retour de mail.
@@ -190,8 +190,7 @@ N’hésitez pas à nous appeler pour toute question.
 ## Demande de réservation
 
 La réservation se fait directement auprès de nous, sans intermédiaire.
-Envoyez-nous simplement les informations suivantes à
-<a href="mailto:diwawatt@gmail.com?subject=Réservation gîte – Demande d'information">diwawatt@gmail.com</a>:
+Envoyez-nous simplement les informations suivantes à {{< email >}} :
 
 - Prénom
 - Jour d’arrivée convenu
@@ -217,6 +216,8 @@ nous appeler pour toutes questions :
   </a>
 </div>
 
+Pour nous contacter par email : {{< email >}}
+
 ## Informations utiles
 
 - **Localisation** : 2 km du centre de Die.
@@ -241,19 +242,4 @@ nous appeler pour toutes questions :
   "availability": "https://schema.org/InStock",
   "validFrom": "2025-01-01"
 }
-</script>
-<p>
-  Pour nous contacter par email, cliquez ici : 
-  <span id="email-link"></span>
-</p>
-
-<script type="text/javascript">
-  // Build the email link dynamically
-  var user = "diwawatt";
-  var domain = "gmail.com";
-  var email = user + "@" + domain;
-  var link = document.createElement("a");
-  link.href = "mailto:" + email;
-  link.textContent = email;
-  document.getElementById("email-link").appendChild(link);
 </script>

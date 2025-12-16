@@ -55,7 +55,7 @@
     <div class="footer-col footer-quick">
       <h4>Contact</h4>
       <p style="margin:0.1rem 0;"><a href="tel:+33781112176" style="">+33 7 81 11 21 76</a></p>
-      <p style="margin:0.1rem 0;"><a href="mailto:diwawatt@gmail.com" style="">diwawatt@gmail.com</a></p>
+	  <p style="margin:0.1rem 0;">{{ partial "email.htm" . }}</p>
       <p style="margin:0.1rem 0;">
 				<a href='{{ (.Site.GetPage  "contact" ).RelPermalink }}#carte'>
 					Die (Drôme) — accès & plan</a></p>

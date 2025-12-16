@@ -15,9 +15,10 @@ weight = 80
 
 ## Contact rapide
 
-- **Mail** : [++33 7 81 11 21 76](tel:+33781112176)
-- **Téléphone** : [mailto:diwawatt@gmail.com](diwawatt@gmail.com)
-- **Adresse** : Gîte _Au son du Diois_ — 1050C Route d'Ausson — 26150 Die (Drôme).
+- **Mail** : {{< email >}}
+- **Téléphone** : {{< phone >}}
+- **Adresse** : Gîte _Au son du Diois_ — 1050C Route d'Ausson — 26150 Die
+(Drôme).
 <!-- - **Contact pro pour groupes** : indiquez “demande groupe” dans l’objet. -->
 
 <!--
@@ -72,7 +73,6 @@ weight = 80
 
 ---
 
-
 ## Conditions essentielles
 
 **Politique d'acompte & annulation** (exemple recommandé) :
@@ -95,7 +95,8 @@ para-hôtelières facturées par le propriétaire).
 **GDPR / données** : vos coordonnées servent uniquement à traiter la réservation
 ; conservation limitation et droit d’accès (voir politique de confidentialité).
 
-[Conditions Générales de Vente Complète]({{< relref "conditions-generales-vente" >}})
+[Conditions Générales de Vente
+Complète]({{< relref "conditions-generales-vente" >}})
 
 ## Liens utiles & actions
 

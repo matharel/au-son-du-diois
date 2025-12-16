@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../themes/seb-doc/clean-js/assets/*"
+   ]
+  }
+ }
+}
