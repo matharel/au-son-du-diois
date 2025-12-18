@@ -12,7 +12,7 @@ traiteur amateur, atelier cuisine, repas partagés ou production de plateaux pou
 — un espace clair, fonctionnel et chaleureux où cuisiner devient un moment
 collectif.
 
-## Points forts (en bref)
+## Points forts (en bref) { data-toc = "Points forts" }
 
 - **Frigo gastro 600 L** + congélateur dédié.
 - **Grandes bacs gastro** et rangement professionnel.
@@ -52,7 +52,7 @@ collectif.
   personnes) en simultané.
 - Conçue pour un usage intensif : ateliers, stages culinaires, repas de fêtes.
 
-## Pour les cuisiniers — pourquoi elle plaira
+## Une cuisine pour plaire aux cuisiniers { data-toc = "Pensée pour les cuisiniers" }
 
 - **Espace de travail pro** (répartition, préparation, cuisson) : logique “flux”
   pensée pour groupes.
@@ -61,7 +61,7 @@ collectif.
 - **Ambiance** : matériaux chauds, lumière naturelle et vue — la préparation
   devient un moment convivial.
 
-## Règles d'utilisation (pratiques)
+## Règles d'utilisation
 
 - **Respecter les consignes d’hygiène** affichées sur place.
 - **Tri & gestion des déchets** : suivre les consignes écoresponsables du gîte.
@@ -79,7 +79,7 @@ collectif.
 - **Ateliers & événements** : possibilité d’organiser des ateliers culinaires
   (sur devis) en coordination avec des intervenants locaux.
 
-## Photos & suggestions média
+## Photos
 
 - `cuisine-collective-gite-vue-vercors.jpg` — _alt_: "Cuisine collective vitrée
   avec vue sur le Vercors".
@@ -90,12 +90,10 @@ collectif.
 - `plan-travail-central-tabourets.jpg` — _alt_: "Grand plan de travail central
   et tabourets pour brunch collectif".
 
-## Réserver la cuisine
-
 La cuisine est comprise dans la location du gîte. Pour toute **demande
 spécifique** (atelier, traiteur, matériel additionnel), indiquez vos besoins
-dans le formulaire de réservation ou contactez-nous :
-**contact@ausondudiois.fr**. Nous vous enverrons la fiche inventaire et les
-recommandations logistiques.
+dans le [formulaire de réservation]({{< relref "tarifs/#reservation" >}}) ou
+[contactez-nous]({{< relref "contact" >}}). Nous vous enverrons la fiche
+inventaire et les recommandations logistiques.
 
-[Voir tarifs & disponibilité](/tarifs-reservations-gite-de-groupe-die)
+[Voir tarifs & disponibilité]({{< relref "tarifs" >}})

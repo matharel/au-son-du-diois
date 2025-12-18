@@ -12,6 +12,7 @@ brand = "Au Son du Diois"
 breadcrumb = 0
 breadcrumbDepth = 0 # Plus le nombre est grand, plus il pop le début du breadcrumb
 gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
+contentTreeHomePage = false
 # For shortcode {{< email >}}
 email = "diwawatt@gmail.com"
 phone = "+33781112176"

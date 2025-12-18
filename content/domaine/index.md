@@ -24,7 +24,7 @@ vers le domaine. Le terrain, **vaste et naturel**, se fond visuellement dans la
 forêt voisine et offre des usages multiples : ateliers en plein air, espaces de
 pratique, zones de pause et petits emplacements pour tentes.
 
-## Terrasse, continuité intérieur → extérieur
+## Terrasse, continuité intérieur → extérieur { data-toc = "Terrasse" }
 
 La terrasse constitue l’interface principale entre intérieur et extérieur :
 tables pour les repas, zones de travail en plein air et vues sur le Vercors. Son
@@ -36,7 +36,7 @@ _Photo suggérée :_
 - `terrasse-bois-vue-vercors.jpg` — _alt_: "Terrasse en bois au gîte Au son du
   Diois, vue sur le Vercors"
 
-## Terrain, emplacements & usages
+## Terrain, emplacements & usages { data-toc = "Terrain" }
 
 Le domaine (plusieurs milliers de m²) est organisé de façon souple :
 
@@ -56,7 +56,7 @@ _Photos suggérées :_
 unités ; contacter le propriétaire pour valider l’emplacement et les règles
 (feu, distances, respect de la végétation).
 
-## Sentiers & promenades
+## Sentiers & promenades { data-toc = "Promenades" }
 
 Le domaine est **parcouru de chemins praticables** qui invitent à de courtes
 balades et relient la terrasse aux zones ombrées.
@@ -66,7 +66,7 @@ _Photo suggérée :_
 - `chemin-promenade-die.jpg` — _alt_: "Promenade depuis le gîte vers Die, chemin
   praticable à travers champs"
 
-## La rivière proche — formule & prudence
+## La rivière proche — formule & prudence { data-toc = "Rivière" }
 
 À deux pas, une rivière sauvage — lit de galets et petites vasques — invite à la
 pause et au rafraîchissement. C’est un lieu de fraîcheur où **les enfants
@@ -80,7 +80,7 @@ _Photo suggérée :_
 - `riviere-galets-baignade.jpg` — _alt_: "Rivière sauvage proche du gîte, fonds
   de galets et vasques"
 
-## Sécurité & logistique
+## Sécurité & logistique { data-toc = "Sécurité" }
 
 _Vraiment ?_
 
@@ -89,7 +89,7 @@ _Vraiment ?_
 - **Respect du lieu** : collecte des déchets, pas de perturbation de la
   faune/flore.
 
-## Informations pratiques (résumé)
+## Informations pratiques (résumé) { data-toc = "Informations" }
 
 - Installation de tentes : **sur demande** et validée à l’avance.
 - Sentiers : praticables pour promenades courtes (non techniques).
@@ -98,7 +98,7 @@ _Vraiment ?_
 - Contact pour organisation d'activités extérieures et autorisations :
   **contact@ausondudiois.fr**
 
-### Bloc photo & galerie (intégration HTML possible)
+### Bloc photo & galerie (intégration HTML possible) { data-toc = "Galerie" }
 
 ```html
 <div class="gallery">

@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../themes/seb-doc/clean-js/assets/*"
+    "../../../themes/seb-doc/main/assets/*"
    ]
   }
  }

@@ -1,9 +1,58 @@
 ## Next
 
+### hero section
+
+Là où j'en suis.
+
+#### Front matter
+
+```toml
+[hero]
+  enabled = true
+  variant = "split"
+  image = "montagne_vercors.jpg"
+  theme = "light"
+  size = "md"
+  overlay = false
+```
+
+Pour l'instant juste `enabled` est mis en place, ça déclenche une condition
+positive dans baseof et ça importe `partials/ui/hero.html`
+
+Dans la partial, ça récupère le `.RawContent` qu'il y a jusqu'au premier `h2`.
+
+Ça récupère l'image suggérait par le front matter et la met dans un div
+approprié.
+
+Ensuite le contenu est affiché.
+
+Le problème de laisser l'image dans le front matter, c'est que ça bypass tout
+mon module d'optimisation des images.
+
+J'ai pris des notes dans `perso/sci/site/hero` et il y avait une proposition de
+design par chatgpt ici :
+https://chatgpt.com/s/t_694408fd47c08191b8de0fcd1d0ef311
+
+**TODO** :
+
+- voir si on peut sortir l'image du front matter. Elle pourrait tout simplement
+  être dans un shortcode `{{< hero img />}}` qui accepterait une image où une
+  galerie.
+- ou tout simplement dans du markdown et affiché en hero parce qu'elle est dans
+  ce bloc
+
+### form
+
+Les deux propositions intéressantes (la première permet même d'avoir deux
+formulaires différents:
+
+- https://formspree.io/
+- https://usebasin.com/pricing
+
 ### Contenu
 
 - voir comment sont construites les sections:
-  - si je garde les liens de sous-pages, les mettre en bas de pages
+  - ~~si je garde les liens de sous-pages, les mettre en bas de pages~~
 - vérifier la construction des liens internes au site:
   - ~~depuis le footer~~
   - vers les pages hors-menus comme chambre
@@ -11,6 +60,7 @@
 - Mettre toutes les images disponibles
 - Relever les images à faire et les commenter
 - Relire tous les textes
+- sitempap ? Quoi, comment, où ?
 
 ### Design
 
@@ -38,7 +88,8 @@ gîte suffiraient.
 Une rubrique vie du lieu, avec :
 
 - historique de la construction
-- le projet de studio (à bien voir si je ne me mets pas en danger législativement)
+- le projet de studio (à bien voir si je ne me mets pas en danger
+  législativement)
 - historique du projet (avec l'envie de studio)
 - des pages techniques sur le lieu:
   - les arbres du terrain

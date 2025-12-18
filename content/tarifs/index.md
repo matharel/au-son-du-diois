@@ -15,7 +15,7 @@ TOC = true
     Accueille jusqu’à 15 personnes, grand espace lumineux, terrasse bois, vue imprenable sur le Vercors.
   </p>
   <div style="margin-top:1rem;">
-    <a href="#calendrier"
+    <a href="#disponibilite"
        style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
        Voir disponibilités
     </a>
@@ -24,12 +24,12 @@ TOC = true
 
 ## Tarifs
 
-### Conditions de réservation
+### Conditions de réservation { data-toc="Conditions" }
 
 - **Haute saison** : minimum **6 nuits**
 - **Le reste de l'année** : minimum **2 nuits**
 
-### Grille des tarifs
+### Grille des tarifs { data-toc="Grille" }
 
 | Durée   | Basse saison | Moyenne/nuit | Haute saison (+35 %) | Moyenne/nuit |
 | ------- | ------------ | ------------ | -------------------- | ------------ |
@@ -75,8 +75,7 @@ TOC = true
   </div>
 </div>
 
-
-## Demande de réservation
+## Demande de réservation {#reservation data-toc = "Réserver"}
 
 <form
   action="https://formspree.io/f/YOUR_FORM_ID" 
@@ -162,61 +161,20 @@ TOC = true
   </button>
 </form>
 
-## Demande de réservation
+**Après confirmation de la disponibilité** aux dates demandées, nous vous
+enverrons un contrat de location par retour de mail.
 
-La réservation se fait directement auprès de nous, sans intermédiaire.
+Merci d’être sûr de vous avant de nous faire établir un contrat. N’hésitez pas à
+nous contacter pour toute questions.
 
-Vous pouvez :
-- soit utiliser le formulaire ci-dessous (recommandé)
-- soit nous écrire directement à {{< email >}}
-
-
-**Après confirmation de la disponibilité** aux dates demandées, nous vous enverrons
-un contrat de location par retour de mail.
-
-Merci d’être sûr de vous avant de nous faire établir un contrat.
-N’hésitez pas à nous appeler pour toute question.
-
----
-
-<!-- FORM START -->
-
-<form>
-  <!-- (form HTML from above goes here unchanged) -->
-</form>
-
-<!-- FORM END -->
-
-## Demande de réservation
-
-La réservation se fait directement auprès de nous, sans intermédiaire.
-Envoyez-nous simplement les informations suivantes à {{< email >}} :
-
-- Prénom
-- Jour d’arrivée convenu
-- Nombre de nuits convenues
-- email
-- Téléphone
-- Adresse
-- Ville
-- Code Postal
-- Nombre d’adultes par nuit (pour le calcul de la taxe de séjour - les moins de
-  18 ans en sont exonérés)
-
-**Après confirmation de la disponibilté** aux dates demandées, nous vous enverrons
-un contrat de location par retour de mail.
-
-Merci d'être sûr de vous avant de nous faire établir un contrat. N'hésitez pas à
-nous appeler pour toutes questions :
-
-<div style="margin-top:1rem;">
-  <a href="tel:0033781112176"
+<div
      style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
-        07 81 11 21 76
-  </a>
+        {{< phone >}}
 </div>
-
-Pour nous contacter par email : {{< email >}}
+<div
+     style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
+        {{< email >}}
+</div>
 
 ## Informations utiles
 
@@ -225,7 +183,7 @@ Pour nous contacter par email : {{< email >}}
 - **Enfants** : vaste terrain + rivière sauvage à proximité (sous surveillance).
 - **Stationnement** : plusieurs places sur place.
 
-## Offre structurée (SEO)
+## Offre structurée (SEO) { data-toc = "SEO" }
 
 <script type="application/ld+json">
 {

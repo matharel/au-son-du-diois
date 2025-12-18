@@ -42,7 +42,7 @@ principes, fabrication et choix techniques.
 - caption: Grande salle de vie, idéale pour rassemblements et ateliers.
 ```
 
-## Volumes, lumière & matériaux
+## Volumes, lumière & matériaux { data-toc = "Volumes" }
 
 Ses ouvertures généreuses — dont une colonne vitrée sur plusieurs niveaux — lui
 donnent une présence à la fois imposante et inspirante, parfaite pour accueillir
@@ -54,7 +54,7 @@ des réunions familiales, des séjours créatifs, des stages ou des retraites.
 - caption: Mur en pisé de 11 m et parquet en chêne massif.
 ```
 
-## Le filet suspendu
+## Le filet suspendu { data-toc = "Le filet" }
 
 Au-dessus, un grand filet suspendu devient tour à tour terrain de jeu, hamac
 géant pour la sieste ou espace lecture confortable grâce à un éclairage intégré
@@ -66,7 +66,7 @@ géant pour la sieste ou espace lecture confortable grâce à un éclairage int�
 - caption: Filet suspendu pour sieste et jeux.
 ```
 
-## Cuisine collective & terrasse
+## Cuisine collective & terrasse { data-toc = "Cuisine" }
 
 La cuisine collective, entièrement équipée, s’ouvre sur une terrasse en bois de
 80 m² offrant une vue imprenable sur le Vercors et donnant accès à un terrain
@@ -84,7 +84,7 @@ alt: terrasse en bois avec vue sur le Vercors - gîte Die
 caption: Cuisine pratique et terrasse 80 m² face au Vercors.
 ```
 
-## Chambres & couchages
+## Chambres & couchages { data-toc = "Chambres" }
 
 Le gîte dispose de **5 chambres**, pour une **capacité totale de 15
 personnes**.  
@@ -112,7 +112,7 @@ chambres), ce qui permet d’accueillir aussi bien :
 **Pour le détail chambre par chambre** (photos, surfaces, types de lits),  
 voir la page dédiée : **[Découvrir les chambres]({{< relref "chambres" >}})**
 
-## Extérieur, terrain & rivière
+## Extérieur, terrain & rivière { data-toc = "Extérieurs" }
 
 ```
 /!\ On parle de la rivière et on revient au domaine, drôle de micmac
@@ -131,7 +131,7 @@ pour un séjour encore plus immersif.
 - caption: Terrain naturel, sentiers et rivière à proximité.
 ```
 
-## Situation & accès
+## Situation & accès { data-toc = "Accès" }
 
 Situé à seulement 2 km du centre de Die, le gîte bénéficie d’un équilibre rare
 entre calme, nature et accessibilité, avec un accès simple en voiture comme à

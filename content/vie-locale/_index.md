@@ -20,7 +20,7 @@ weight = 40
   </div>
 </section>
 
-## Office de tourisme & informations pratiques
+## Office de tourisme & informations pratiques { data-toc = "Office de Tourisme" }
 
 Pour préparer vos sorties, le **Office de Tourisme du Pays Diois** est la
 première ressource locale (horaires, cartes, fiches randos, événements). Ils
@@ -29,14 +29,14 @@ proposent des informations saisonnières et des circuits thématiques.
 
 ## Activités de plein air
 
-### Drôme Aventure — accrobranche & activités encadrées
+### Drôme Aventure — accrobranche & activités encadrées { data-toc = "Drôme Aventure" }
 
 Base de loisirs voisine proposant parcours aventures, sorties encadrées (canyon,
 via ferrata, escalade) et activités pour tous âges — pratique pour les
 demi-journées en famille ou pour clôturer un stage. Réserver à l'avance est
 recommandé.
 
-### Randonnées & balades dans le Diois / Vercors
+### Randonnées & balades dans le Diois / Vercors { data-toc = "Randonnées" }
 
 Le territoire offre de nombreuses boucles et itinéraires au départ de Die et ses
 environs : promenades faciles pour familles et sentiers plus engagés pour
@@ -54,7 +54,7 @@ Réseau local de parcours VTT et itinéraires cyclo : des boucles familiales aux
 
 ➡️ Page détaillée : [VTT & Cyclo — parcours & locations]({{< relref "vtt-cyclo" >}})
 
-### Baignades & sites d'eau
+### Baignades & sites d'eau { data-toc = "Baignades" }
 
 Pour se rafraîchir, la région propose des sites naturels notables — notamment
 **Le Claps** (Luc-en-Diois) et d'autres vasques et coins de baignade dans la
@@ -63,9 +63,9 @@ après randonnée. Vérifier les conditions d'accès selon la saison.
 
 ➡️ Page détaillée : [Baignades et spots naturels du Diois]({{< relref "baignades-spots-diois" >}})
 
-## Terroir & dégustations
+## Terroir & dégustations { data-toc = "Terroir" }
 
-### Clairette de Die & vignobles locaux
+### Clairette de Die & vignobles locaux { data-toc = "Clairette & Vignobles" }
 
 La Clairette et les vins du Diois sont une spécialité locale : caves à visiter,
 dégustations et routes des vignes sont disponibles toute l'année (selon saisons
@@ -88,7 +88,7 @@ artisanat). Parfait pour constituer vos repas en cuisine collective.
 - Villages et cités alentour (Châtillon-en-Diois, exemples de patrimoine et
   petites visites locales). :contentReference[oaicite:7]{index=7}
 
-## Activités pour groupes & propositions clés en main
+## Activités pour groupes & propositions clés en main { data-toc = "Activités pour groupe" }
 
 - Demi-journée accrobranche + pique-nique (avec Drôme Aventure).
   :contentReference[oaicite:8]{index=8}
@@ -97,7 +97,7 @@ artisanat). Parfait pour constituer vos repas en cuisine collective.
 - Soirée dégustation Clairette + plateau de produits locaux (traiteur local sur
   demande). :contentReference[oaicite:10]{index=10}
 
-## Conseils pratiques & liens utiles
+## Conseils pratiques & liens utiles { data-toc = "Conseils et liens" }
 
 - Office de Tourisme du Pays Diois — pour cartes, événements et fiches
   randonnées. :contentReference[oaicite:11]{index=11}
@@ -108,12 +108,14 @@ artisanat). Parfait pour constituer vos repas en cuisine collective.
 - Infos baignade & sites d'eau (Le Claps, spots Drôme).
   :contentReference[oaicite:14]{index=14}
 
-## Bloc SEO : mots-clés & snippets à inclure (pour CMS / meta)
+## Bloc SEO : mots-clés & snippets à inclure (pour CMS / meta) { data-toc = "SEO" }
 
 - gîte Die, gîte de groupe Die, activités Die, Drôme Aventure, Clairette de Die,
   randonnées Vercors, marché Die, baignade Drôme.
 
-## Liens externes recommandés (à insérer avec `target="_blank" rel="noopener"`)
+## Liens externes
+
+(à insérer avec `target="_blank" rel="noopener"`)
 
 - Office de Tourisme du Pays Diois — https://www.diois-tourisme.com/ .
   :contentReference[oaicite:15]{index=15}
@@ -126,7 +128,7 @@ artisanat). Parfait pour constituer vos repas en cuisine collective.
   https://www.drome-tourism.com/take-in-some-fresh-air/destination-water-swimming/
   . :contentReference[oaicite:18]{index=18}
 
-### Call-to-action (HTML)
+---
 
 <div style="margin:1rem 0;">
   <a href="/tarifs-reservations-gite-de-groupe-die-drome" style="display:inline-block;padding:0.7rem 1.2rem;background:#2a5fd7;color:#fff;border-radius:0.4rem;text-decoration:none;font-weight:600;">

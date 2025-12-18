@@ -4,23 +4,21 @@ linkTitle = "Accueil"
 h1 = "Grande demeure écoconstruite avec vue sur le Vercors"
 MetaDescription = "Gîte 15 pers. près de Die — grande salle, cuisine collective et terrain naturel en lisière de forêt. Vérifiez les disponibilités."
 TOC = true
-notes = """
-  - attention le TOC généré est doublé
-"""
+[hero]
+  enabled = true
+  variant = "split"
+  image = "montagne_vercors.jpg"
+  theme = "light"
+  size = "md"
+  overlay = false
 +++
 
-<section id="hero" style="margin: 2rem 0;">
-  <h2 style="font-size:1.4rem;font-weight:600;margin-bottom:0.5rem;">
-  Gîte 15 pers. • Éco-construit • Vue sur le Vercors</h2>
-  <p style="max-width:32rem;">
-  Grand espace de vie, cuisine collective et vaste domaine naturel — idéal pour stages, réunions et séjours en famille.</p>
-  <div style="margin-top:1rem;">
-    <a href='{{< relref "tarifs/#disponibilit%C3%A9s" >}}'
-       style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
-       Voir disponibilités
-    </a>
-  </div>
-</section>
+# Mon h1 de hero
+
+Welcome on my incredible website, you can check the
+[tarifs]({{< relref "tarifs" >}}) and availability of my services.
+
+## Main content
 
 - **Salle centrale impressionnante** : grand volume, parquet en chêne et long
   mur en pisé.
@@ -44,13 +42,13 @@ naturelles lui donnent une présence forte et chaleureuse. Elle est pensée pour
 rassembler — repas, ateliers, veillées ou temps calmes — tout en offrant des
 zones de circulation ouvertes qui favorisent la convivialité.
 
-### Détente et curiosité : le filet
+### Détente et curiosité : le filet { data-toc="Le filet" }
 
 Suspendu à 4 m, le filet de 25 m² est un espace ludique et reposant : idéal pour
 la sieste, la lecture ou pour laisser jouer les enfants sous le regard des
 adultes.
 
-### Extérieur & nature
+### Extérieur & nature { data-toc="Extérieurs" }
 
 La terrasse en bois se prolonge vers le domaine qui borde la forêt. Parcours à
 pied, coins tranquilles et zones propices à l’installation de tentes complètent
@@ -111,7 +109,7 @@ date.)_
 ## Réserver & contacter
 
   <div style="margin-top:1rem;">
-    <a href='{{< relref "tarifs/#r%C3%A9server" >}}'
+    <a href='{{< relref "tarifs/#reservation" >}}'
        style="display:inline-block;padding:0.8rem 1.4rem;border-radius:0.4rem;background:#2a5fd7;color:#fff;text-decoration:none;font-weight:600;">
         Réserver
     </a>
