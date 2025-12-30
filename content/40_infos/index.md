@@ -6,6 +6,11 @@ TOC = true
 weight = 40
 +++
 
+<div class="cta">
+    <a href="#dispo">Disponibilités</a>
+    <a href="#reserver">Réserver</a>
+</div>
+
 ## Tarifs
 
 ### Conditions de réservation
@@ -41,34 +46,74 @@ weight = 40
   - Le reste de l’année
   - Week-ends hors vacances scolaires
 
-## Contacts
-
-> {{< fa phone >}} +33 781112176
-
-> {{< fa at >}} diwawatt@gmail.com
-
-> {{< fa map-marker >}} 1050c route d'ausson 26150 DIE
-
-## Agenda
+## Disponibilités { #dispo }
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FParis&bgcolor=%23ffffff&showTitle=0&showPrint=0&showTabs=0&showCalendars=0&src=NjFiZmQ3ZmM3ZDNkZDExYWU3ZDAwYmJlOTBlZDIxZDU1MTAyNDNmOWI0ZTZhNTE4NmQwNzgyNDA1ZDZmNjJkYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2833.933701197773!2d5.378472376533459!3d44.74136938137577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cab7b61acc6f8b%3A0xe1155f185160aeb9!2sG%C3%AEte%20Au%20son%20du%20Diois!5e0!3m2!1sfr!2sfr!4v1711377259882!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Nous sommes déjà en contact ?
+## Contacts
 
-Vous êtes déjà en contact avec nous et vous souhaitez confirmer votre
-réservation ? Envoyez nous par e-mail les informations suivantes pour
-l'établissement du contrat:
+N'hésitez pas à nous appeler ou nous écrire pour toutes questions :
 
-- Nom :
-- Prénom :
-- Jour d'arrivée convenu :
-- Nombre de nuits convenues :
-- email :
-- Téléphone :
-- Adresse :
-- Ville :
-- Code Postal :
-- Nombre d'adultes par nuit : (pour le calcul de la taxe de séjour - les moins
-  de 18 ans en sont exonérés) :
+- <a href="tel:+33781112176">07 81 11 21 76</a>
+- diwawatt@gmail.com
+
+## Réserver { #reserver }
+
+Vous êtes décidé, **remplissez** le formulaire suivant. Nous vous renverrons un
+**contrat de location** et une demande de versement d'**Arrhes de 30%** pour
+valider votre réservation.
+
+N'hésitez pas à nous appeler si vous avez besoin de renseignement
+supplémentaire avant de réserver.
+
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+<form class="booking-form" action="https://booking-form-worker.diwawatt.workers.dev" method="POST">
+
+  <div class="field">
+    <label for="lastName">Nom</label>
+    <input type="text" id="lastName" name="lastName" required autocomplete="family-name" />
+  </div>
+
+  <div class="field">
+    <label for="firstName">Prénom</label>
+    <input type="text" id="firstName" name="firstName" required autocomplete="given-name" />
+  </div>
+
+  <div class="field">
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required autocomplete="email" />
+  </div>
+
+  <div class="field">
+    <label for="phone">Téléphone</label>
+    <input type="tel" id="phone" name="phone" required autocomplete="tel" />
+  </div>
+
+  <div class="field">
+    <label for="startDate">Date d'arrivée</label>
+    <input type="date" id="startDate" name="startDate" required />
+  </div>
+
+  <div class="field">
+    <label for="nbNights">Nombre de nuits</label>
+    <input type="number" id="nbNights" name="nbNights" min="1" step="1" required />
+  </div>
+
+  <div class="field">
+    <label for="nbAdults">Nombre d'adultes</label>
+    <input type="number" id="nbAdults" name="nbAdults" min="1" max="15" step="1" required />
+  </div>
+
+  <!-- Turnstile: isolated -->
+  <div class="captcha-wrapper">
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAACJS-CKeuwybI-2p"></div>
+  </div>
+
+  <div class="actions">
+    <button type="submit">Réserver</button>
+  </div>
+
+</form>
