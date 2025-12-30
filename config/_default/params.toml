@@ -14,3 +14,28 @@ breadcrumbDepth = 0 # Plus le nombre est grand, plus il pop le début du breadcr
 gitAccount = "https://github.dev/matharel/au-son-du-diois/blob/main/content/"
 #   toc = true         # Generic flag used by many themes
 #   enableSearch = false
+
+#--------------------------------------------------
+# CONTENT TREE
+#--------------------------------------------------
+
+[contentTree]
+  [contentTree.default]
+	debug = false
+	sortBy = "Weight"    # "Path" "Weight" "Date" "LinkTitle" "Title"
+	order = "asc"           # "asc" "desc"
+	depth = 1				# 0 → no limitations
+	includeRoot = false     # Peut-être intéressant de l'avoir dans un footer par exemple
+# Possible to override parameters for menu and list
+  [contentTree.menu]
+  [contentTree.list]
+# or for any new situation, just call the partial with the new variant name :
+# {{ partial "content-tree.html" (dict "variant" "myNewVariant" "currentPage" .) }}
+
+
+#--------------------------------------------------
+# SEB TOC
+#--------------------------------------------------
+
+[sebToc]
+  depth = 2 # which is the deeper header we display

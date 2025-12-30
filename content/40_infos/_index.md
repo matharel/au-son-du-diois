@@ -1,9 +1,10 @@
 +++
 title = "Contact et Agenda"
-linkTitle = "Contact et Agenda"
+linkTitle = "Tarifs/infos"
 slug = "contact"
 TOC = true
-weight = 40
+weight = 15
+layout = "single"
 +++
 
 <div class="cta">
