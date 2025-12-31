@@ -30,11 +30,14 @@ layout = "single"
 | 6 nuits | **2180 €**   | 363 €/nuit   | **2943 €**           | 491 €/nuit   |
 | 7 nuits | **2350 €**   | 336 €/nuit   | **3173 €**           | 453 €/nuit   |
 
-- Draps : **inclus**
-- Le ménage est à faire par vos soins, ou bien nous pouvons vous mettre en
-  relation avec des prestataires (tarifs constatés entre 160€ et 200€)
-- Taxe de séjour : **+2,20 € par adulte et par nuitée**  
-  (collectée et reversée à la commune)
+Le tarif **inclus**:
+
+- Un kit de drap initial
+- La taxe de séjour (collectée puis reversée à la commune)
+
+Le ménage est à faire par vos soins, ou nous pouvons simplement vous mettre en
+relation avec des prestataires (tarifs constatés autour de 150€)
+
 
 ### Périodes
 
@@ -66,8 +69,8 @@ Vous êtes décidé, **remplissez** le formulaire suivant. Nous vous renverrons 
 **contrat de location** et une demande de versement d'**Arrhes de 30%** pour
 valider votre réservation.
 
-N'hésitez pas à nous appeler si vous avez besoin de renseignement
-supplémentaire avant de réserver.
+N'hésitez pas à nous appeler si vous avez besoin de renseignement supplémentaire
+avant de réserver.
 
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
