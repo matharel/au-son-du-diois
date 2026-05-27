@@ -34,7 +34,8 @@ Le tarif **inclus**:
 
 - Un kit de drap initial
 - La taxe de séjour (collectée puis reversée à la commune)
-- Un ménage professionnel sur un lieu que vous aurez laissé propre
+- Un ménage professionnel (le gîte doit être laissé dans un état correct
+  d'usage)
 
 ### Périodes
 
