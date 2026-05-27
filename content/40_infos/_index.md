@@ -34,10 +34,7 @@ Le tarif **inclus**:
 
 - Un kit de drap initial
 - La taxe de séjour (collectée puis reversée à la commune)
-
-Le ménage est à faire par vos soins, ou nous pouvons simplement vous mettre en
-relation avec des prestataires (tarifs constatés autour de 150€)
-
+- Un ménage professionnel sur un lieu que vous aurez laissé propre
 
 ### Périodes
 
