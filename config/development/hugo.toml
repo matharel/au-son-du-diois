@@ -16,4 +16,4 @@ disableFastRender = false
   path = "github.com/matharel/seb-doc/main"
 
 [module]
-  replacements = 'github.com/matharel/seb-doc/main -> ../../../themes/seb-doc/main'
+  replacements = 'github.com/matharel/seb-doc/main -> /home/sebastien/areas/themes/seb-doc/main'

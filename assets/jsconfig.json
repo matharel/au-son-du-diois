@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../themes/seb-doc/main/assets/*"
+    "../../../../areas/themes/seb-doc/main/assets/*"
    ]
   }
  }
