@@ -16,8 +16,8 @@ layout = "single"
 
 ### Conditions de réservation
 
-- **Haute saison** : minimum **6 nuits**
-- **Le reste de l'année** : minimum **2 nuits**
+- Minimum 2 nuits et 5 nuits pendant les vacances.
+- Pour les réservations tardives (moins de 30 jours), contactez-nous, nous serons arrangeant.
 
 ### Grille des tarifs
 
