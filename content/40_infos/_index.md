@@ -14,39 +14,47 @@ layout = "single"
 
 ## Tarifs
 
-### Conditions de réservation
+- Nous privilégions les **séjours longs** → les tarifs sont fortement dégressifs
+- Pour les **réservations de dernière minute**, contactez-nous pour un devis
+  très arrangeant !
+- Le tarif **inclut** :
+  - Un kit de **draps** initial
+  - La **taxe de séjour** (collectée puis reversée à la commune)
+  - Un **ménage professionnel** (le gîte doit être laissé dans un état correct
+    d’usage)
 
-- Minimum 2 nuits et 5 nuits pendant les vacances.
-- Pour les réservations tardives (moins de 30 jours), contactez-nous, nous serons arrangeant.
+### Basse saison
 
-### Grille des tarifs
+Toute l’année (hors vacances d’été, week-ends de mai et fêtes de fin d’année)
 
-| Durée   | Basse saison | Moyenne/nuit | Haute saison (+35 %) | Moyenne/nuit |
-| ------- | ------------ | ------------ | -------------------- | ------------ |
-| 2 nuits | **1000 €**   | 500 €/nuit   | **1350 €**           | 675 €/nuit   |
-| 3 nuits | **1380 €**   | 460 €/nuit   | **1863 €**           | 621 €/nuit   |
-| 4 nuits | **1700 €**   | 425 €/nuit   | **2295 €**           | 574 €/nuit   |
-| 5 nuits | **1900 €**   | 380 €/nuit   | **2565 €**           | 513 €/nuit   |
-| 6 nuits | **2180 €**   | 363 €/nuit   | **2943 €**           | 491 €/nuit   |
-| 7 nuits | **2350 €**   | 336 €/nuit   | **3173 €**           | 453 €/nuit   |
+| Durée   | Prix moyen / nuit | Total  |
+| ------- | ----------------- | ------ |
+| 2 nuits | 500 €             | 1000 € |
+| 3 nuits | 460 €             | 1380 € |
+| 4 nuits | 425 €             | 1700 € |
+| 5 nuits | 380 €             | 1900 € |
+| 6 nuits | 363 €             | 2180 € |
+| 7 nuits | 336 €             | 2350 € |
+{ .headers }
 
-Le tarif **inclus**:
+### Haute saison
 
-- Un kit de drap initial
-- La taxe de séjour (collectée puis reversée à la commune)
-- Un ménage professionnel (le gîte doit être laissé dans un état correct
-  d'usage)
+- Vacances d’été
+- Week-ends de mai
+- Fêtes de fin d’année
 
-### Périodes
+Pour les vacances d’été et de fin d’année, les séjours sont de 5 nuits minimum,
+sauf en réservation de dernière minute.
 
-- **Haute saison (+35 %)**
-  - Juillet et Août
-  - Vacances de Noël et Nouvel An
-  - week-ends prolongés du mois de mai
-
-- **Basse saison (tarifs de base)**
-  - Le reste de l’année
-  - Week-ends hors vacances scolaires
+| Durée   | Prix moyen / nuit | Total  |
+| ------- | ----------------- | ------ |
+| 2 nuits | 675 €             | 1350 € |
+| 3 nuits | 621 €             | 1863 € |
+| 4 nuits | 574 €             | 2295 € |
+| 5 nuits | 513 €             | 2565 € |
+| 6 nuits | 491 €             | 2943 € |
+| 7 nuits | 453 €             | 3173 € |
+{ .headers }
 
 ## Disponibilités { #dispo }
 
