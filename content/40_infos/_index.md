@@ -23,6 +23,10 @@ layout = "single"
   - Un **ménage professionnel** (le gîte doit être laissé dans un état correct
     d’usage)
 
+> Les tarifs affichés ici correspondent aux réservations directes. Les tarifs
+> visibles sur les plateformes peuvent varier selon leurs frais, leurs règles de
+> calcul et leurs commissions.
+
 ### Basse saison
 
 Toute l’année (hors vacances d’été, week-ends de mai et fêtes de fin d’année)
