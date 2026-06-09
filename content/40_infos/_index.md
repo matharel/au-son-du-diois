@@ -29,11 +29,11 @@ layout = "single"
 
 ### Basse saison
 
-Toute l’année (hors vacances d’été, week-ends de mai et fêtes de fin d’année)
+Toute l’année (hors vacances d’été, week-ends prolongés et fêtes de fin d’année)
 
 | Durée   | Prix moyen / nuit | Total  |
 | ------- | ----------------- | ------ |
-| 2 nuits | 500 €             | 1000 € |
+| 2 nuits | 550 €             | 1100 € |
 | 3 nuits | 460 €             | 1380 € |
 | 4 nuits | 425 €             | 1700 € |
 | 5 nuits | 380 €             | 1900 € |
