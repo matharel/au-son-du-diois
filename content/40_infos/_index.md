@@ -31,15 +31,27 @@ layout = "single"
 
 Toute l’année (hors vacances d’été, week-ends prolongés et fêtes de fin d’année)
 
-| Durée   | Prix moyen / nuit | Total  |
-| ------- | ----------------- | ------ |
-| 2 nuits | 550 €             | 1100 € |
-| 3 nuits | 460 €             | 1380 € |
-| 4 nuits | 425 €             | 1700 € |
-| 5 nuits | 380 €             | 1900 € |
-| 6 nuits | 363 €             | 2180 € |
-| 7 nuits | 336 €             | 2350 € |
+| Durée   | Total du séjour | Prix moyen par nuit |
+| ------- | --------------: | ------------------: |
+| 2 nuits |          1100 € |               550 € |
+| 3 nuits |          1450 € |               483 € |
+| 4 nuits |          1750 € |               438 € |
+| 5 nuits |          2000 € |               400 € |
+| 6 nuits |          2250 € |               375 € |
+| 7 nuits |          2450 € |               350 € |
 { .headers }
+
+<!--
+Logique interne :
+
+| Nuit supplémentaire | Supplément |
+| ------------------- | ---------: |
+| 3e nuit             |     +350 € |
+| 4e nuit             |     +300 € |
+| 5e nuit             |     +250 € |
+| 6e nuit             |     +250 € |
+| 7e nuit             |     +200 € |
+-->
 
 ### Haute saison
 
@@ -51,15 +63,27 @@ Toute l’année (hors vacances d’été, week-ends prolongés et fêtes de fin
 Pour les vacances d’été et de fin d’année, les séjours sont de 5 nuits minimum,
 sauf en réservation de dernière minute.
 
-| Durée   | Prix moyen / nuit | Total  |
-| ------- | ----------------- | ------ |
-| 2 nuits | 675 €             | 1350 € |
-| 3 nuits | 621 €             | 1863 € |
-| 4 nuits | 574 €             | 2295 € |
-| 5 nuits | 513 €             | 2565 € |
-| 6 nuits | 491 €             | 2943 € |
-| 7 nuits | 453 €             | 3173 € |
+| Durée   | Total du séjour | Prix moyen par nuit |
+| ------- | --------------: | ------------------: |
+| 2 nuits |          1350 € |               675 € |
+| 3 nuits |          1800 € |               600 € |
+| 4 nuits |          2200 € |               550 € |
+| 5 nuits |          2550 € |               510 € |
+| 6 nuits |          2850 € |               475 € |
+| 7 nuits |          3150 € |               450 € |
 { .headers }
+
+<!--
+Logique interne :
+
+| Nuit supplémentaire | Supplément |
+| ------------------- | ---------: |
+| 3e nuit             |     +450 € |
+| 4e nuit             |     +400 € |
+| 5e nuit             |     +350 € |
+| 6e nuit             |     +300 € |
+| 7e nuit             |     +300 € |
+-->
 
 ## Disponibilités { #dispo }
 
