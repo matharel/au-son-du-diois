@@ -1,6 +1,6 @@
 +++
-title = "Un gîte de groupe spacieux en bordure de forêt et face au Vercors"
-linkTitle = "Le Gîte"
+title = "Un gîte de groupe spacieux en bordure de forêt et face au Vercors et un cabanon mini-loft"
+linkTitle = "Les Gîtes"
 weight = 10 
 TOC = true
 +++

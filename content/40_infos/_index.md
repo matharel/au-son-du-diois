@@ -31,14 +31,15 @@ layout = "single"
 
 Toute l’année (hors vacances d’été, week-ends prolongés et fêtes de fin d’année)
 
-| Durée   | Total du séjour | Prix moyen par nuit |
-| ------- | --------------: | ------------------: |
-| 2 nuits |          1100 € |               550 € |
-| 3 nuits |          1450 € |               483 € |
-| 4 nuits |          1750 € |               438 € |
-| 5 nuits |          2000 € |               400 € |
-| 6 nuits |          2250 € |               375 € |
-| 7 nuits |          2450 € |               350 € |
+
+| Durée   | Total lot 2 gîtes | Prix par nuitée |
+| ------- | ----------------- | --------------- |
+| 2 nuits | 1400 €            | 700 €           |
+| 3 nuits | 1980 €            | 660 €           |
+| 4 nuits | 2480 €            | 620 €           |
+| 5 nuits | 2900 €            | 580 €           |
+| 6 nuits | 3240 €            | 540 €           |
+| 7 nuits | 3500 €            | 500 €           |
 { .headers }
 
 <!--
@@ -63,14 +64,15 @@ Logique interne :
 Pour les vacances d’été et de fin d’année, les séjours sont de 5 nuits minimum,
 sauf en réservation de dernière minute.
 
-| Durée   | Total du séjour | Prix moyen par nuit |
-| ------- | --------------: | ------------------: |
-| 2 nuits |          1350 € |               675 € |
-| 3 nuits |          1800 € |               600 € |
-| 4 nuits |          2200 € |               550 € |
-| 5 nuits |          2550 € |               510 € |
-| 6 nuits |          2850 € |               475 € |
-| 7 nuits |          3150 € |               450 € |
+
+| Durée   | Total lot 2 gîtes | Prix par nuitée |
+| ------- | ----------------- | --------------- |
+| 2 nuits | 1650 €            | 825 €           |
+| 3 nuits | 2310 €            | 770 €           |
+| 4 nuits | 2880 €            | 720 €           |
+| 5 nuits | 3300 €            | 660 €           |
+| 6 nuits | 3840 €            | 640 €           |
+| 7 nuits | 4200 €            | 600 €           |
 { .headers }
 
 <!--
