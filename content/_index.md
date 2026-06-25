@@ -8,7 +8,7 @@ Diois réunit deux hébergements autonomes sur une même propriété : un gîte
 principal jusqu’à 15 personnes et un ancien cabanon de vigne rénové en mini-loft
 jusqu’à 5 personnes.
 
-Le lieu peut accueillir jusqu’à 20 personnes au total, dans deux logements
+Le domaine peut accueillir jusqu’à 20 personnes au total, dans deux logements
 proches mais indépendants. Grands volumes, matériaux naturels, terrasse
 panoramique, forêt attenante et vue sur le Vercors composent un cadre chaleureux
 pour les séjours en famille ou entre amis.
