@@ -5,6 +5,13 @@ weight = 10
 TOC = true
 +++
 
+<div class="cta">
+    <a href="{{< relref "40_infos">}}#dispo">Disponibilités</a>
+    <a href="{{< relref "40_infos">}}#reserver">Réserver</a>
+</div>
+
+![terrasse du gite avec la vue sur le vercors](terrasse.jpg)
+
 ## Une immense salle d'activité
 
 Sur deux niveaux, retrouvez au rez de chaussée **la Grande pièce de vie de
@@ -20,7 +27,7 @@ pisé, et ses murs en brique de terre compressée et en terre banchée.
 > notamment, murs en pisé, murs en terre banchée, murs en briques de terre
 > compressées, murs en pierre sèche, isolation en paille...
 
-## La cuisine collective
+## La cuisine équipée
 
 En haut, vous trouverez une grande **cuisine** toute équipée, une salle à manger
 qui a la particularité d'avoir **un grand filet praticable** qui donne au-dessus

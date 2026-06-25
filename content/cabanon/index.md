@@ -4,7 +4,13 @@ linkTitle = "Le cabanon"
 date = 2026-06-25T11:39:12+02:00
 draft = false
 weight = 15
+TOC = false
 +++
+
+<div class="cta">
+    <a href="{{< relref "40_infos">}}#dispo">Disponibilités</a>
+    <a href="{{< relref "40_infos">}}#reserver">Réserver</a>
+</div>
 
 Ancien cabanon de vigne rénové en "mini loft" avec grande baie vitrée,
 comprenant deux chambres en mezzanine. Il peut accueillir quatre personnes, une
