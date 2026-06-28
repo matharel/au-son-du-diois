@@ -109,6 +109,9 @@ N'hésitez pas à nous appeler ou nous écrire pour toutes questions :
 
 ## Réserver { #reserver }
 
+> [!WARNING]
+> Le cabanon n'est pas toujours disponible cet été, dans le doute téléphonez-nous !
+
 Vous êtes décidé, **remplissez** le formulaire suivant. Nous vous renverrons un
 **contrat de location** et une demande de versement d'**Arrhes de 30%** pour
 valider votre réservation.
