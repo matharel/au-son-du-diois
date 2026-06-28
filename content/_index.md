@@ -1,12 +1,14 @@
 +++
-title = "Deux gîtes autonomes face au Vercors, en bordure de forêt"
+title = "Un lieu éco-construit face au Vercors, en bordure de forêt"
 TOC = false
 +++
 
+<!--
 <div class="cta">
     <a href="{{< relref "40_infos">}}#dispo">Disponibilités</a>
     <a href="{{< relref "40_infos">}}#reserver">Réserver</a>
 </div>
+-->
 
 Situé à la sortie de Die, dans le parc naturel régional du Vercors, Au Son du
 Diois réunit deux hébergements autonomes sur une même propriété : un gîte
@@ -18,7 +20,7 @@ proches mais indépendants. Grands volumes, matériaux naturels, terrasse
 panoramique, forêt attenante et vue sur le Vercors composent un cadre chaleureux
 pour les séjours en famille ou entre amis.
 
-L'accès à la rivière pour trempette rafraichissante est tout pour proche.
+La rivière est toute proche pour pouvoir se rafraîchir.
 
 ![ gîte au son du diois avec le vercors en arrière plan](vue_depuis_foret_au_dessus.jpg)
 

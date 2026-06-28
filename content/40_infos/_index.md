@@ -7,13 +7,16 @@ weight = 15
 layout = "single"
 +++
 
+<!--
 <div class="cta">
     <a href="#dispo">Disponibilités</a>
     <a href="#reserver">Réserver</a>
 </div>
+-->
 
 ## Tarifs
 
+- Les deux gîtes se louent ensemble sous forme de lot
 - Nous privilégions les **séjours longs** → les tarifs sont fortement dégressifs
 - Pour les **réservations de dernière minute**, contactez-nous pour un devis
   très arrangeant !

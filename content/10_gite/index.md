@@ -5,10 +5,12 @@ weight = 10
 TOC = true
 +++
 
+<!--
 <div class="cta">
     <a href="{{< relref "40_infos">}}#dispo">Disponibilités</a>
     <a href="{{< relref "40_infos">}}#reserver">Réserver</a>
 </div>
+-->
 
 ![terrasse du gite avec la vue sur le vercors](terrasse.jpg)
 

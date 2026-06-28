@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {{ partial "head/meta" . }}
+  </head>
+
+  <body class="
+    {{- with .Param "bodyClass" }} {{ . }}{{ end -}}
+    {{- with .Param "menu" }} menu{{ end -}}
+    {{- with .Param "TOC" }} toc{{ end -}}
+    {{- with .Param "breadcrumb" }} breadcrumb{{ end -}}
+    ">
+
+    {{/* header extracted */}}
+    {{ partial "header/main-header" . }}
+
+    <main>
+
+      <aside class="summer-offer" aria-label="Offre spéciale été">
+        <p>
+        <strong>Offre d’été : jusqu’à -50&nbsp;% sur les séjours disponibles</strong>
+        <small>Réduction appliquée sur les tarifs d’été, selon disponibilités.</small>
+        </p>
+
+        <ul>
+          <li><strong>-30&nbsp;%</strong> sur les week-ends</li>
+          <li><strong>-50&nbsp;%</strong> à partir de 5 nuits</li>
+        </ul>
+
+        <nav aria-label="Liens de l’offre d’été">
+          <a href='{{ ( .Site.GetPage "40_infos").RelPermalink }}#dispo'>Disponibilités</a>
+          <a href='{{ ( .Site.GetPage "40_infos").RelPermalink }}#reserver'>Réserver</a>
+        </nav>
+      </aside>
+
+      {{/* TOC kept in a small partial (optional) */}}
+      {{ partial "header/toc" . }}
+
+      <div id="mainContent">
+        {{ if .Param "breadcrumb" }}
+          {{ partial "ui/breadcrumbs" . }}
+        {{ end }}
+
+        {{- $h1 := or .Params.h1 .Page.Title -}}
+        <h1{{ with .Draft }} class="title_draft"{{ end }}>{{- $h1 -}}</h1>
+
+		{{ if .Params.hero.enabled }}
+		  {{ partial "ui/hero.html" . }}
+		{{ end }}
+
+        {{ if .Param "anki" }}
+          <button id="anki-button" data-info='{{ .Param "anki-tag" }}'>Generate Anki deck</button>
+        {{ end }}
+
+        {{ if .Param "pageInfos" }}
+          <p>Page créée le {{ .PublishDate | time.Format "02/01/2006" }}</p>
+          {{ with .GitInfo }}
+            <p>Dernière correction, le {{ .CommitDate.Format "02/01/2006" }}</p>
+          {{ end }}
+        {{ end }}
+
+        {{ if .Param "readingTime" }}
+          <p>Temps de lecture estimé: {{ .ReadingTime }} minute{{ with (gt .ReadingTime 1)}}s{{ end }}.</p>
+        {{ end }}
+
+        {{ block "main" . }}{{ end }}
+      </div>
+
+    </main>
+    {{ partial "footer/footer" . }}
+	{{ partial "scripts.html" . }}
+  </body>
+</html>
+

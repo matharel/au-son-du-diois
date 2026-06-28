@@ -7,10 +7,12 @@ weight = 15
 TOC = false
 +++
 
+<!--
 <div class="cta">
     <a href="{{< relref "40_infos">}}#dispo">Disponibilités</a>
     <a href="{{< relref "40_infos">}}#reserver">Réserver</a>
 </div>
+-->
 
 Ancien cabanon de vigne rénové en "mini loft" avec grande baie vitrée,
 comprenant deux chambres en mezzanine. Il peut accueillir quatre personnes, une
